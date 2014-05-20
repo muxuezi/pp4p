@@ -1,0 +1,30 @@
+<tkwidget>
+    <tkmenu>
+        <menu label="_File">
+            <command
+                label="_Quit"
+                command="@quit"
+                accelerator="Ctrl+Q"
+            />
+        </menu>
+        <menu label="_Edit">
+            <command label="Cut"/>
+            <command label="Copy"/>
+            <command label="Paste"/>
+        </menu>
+        <menu label="_Show">
+            <command
+                label="Show statusbar"
+                command="@ToggleStatusBar"
+                variable="show_statusbar"
+            />
+        </menu>
+    </tkmenu>
+    <label
+        text="Hello X-man!"
+        bg="green"
+        fg="white"
+        layout="pack"
+        resizable="yes"
+    />
+</tkwidget>

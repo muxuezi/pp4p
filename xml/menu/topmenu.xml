@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tkmenu>
+<!--
+    copyright (c) mentions
+-->
+<tkmenu>
+    <menu label="_File">
+        <!--
+            This is a SUBMENU
+        -->
+        <menu label="_New">
+            <command label="Text document"/>
+            <command label="Calc document"/>
+            <command label="Draw document"/>
+            <command label="Impress document"/>
+        </menu>
+        <command label="_Open"/>
+        <separator/>
+        <command label="_Save"/>
+        <command label="Save _as..."/>
+        <command label="_Close"/>
+        <separator/>
+        <command
+            label="_Quit"
+            accelerator="Ctrl+Q"
+            command="@quit"
+        />
+    </menu>
+    <menu label="_Show">
+    <!--
+            insert from here
+    -->
+    <radiobutton
+        label="Show icons"
+        command="@MenuShowListMode"
+        value="icons"
+        variable="menu_show_list"
+    />
+    <radiobutton
+        label="Show thumbnails"
+        command="@MenuShowListMode"
+        value="thumbs"
+        variable="menu_show_list"
+        selected="selected"
+    />
+    <radiobutton
+        label="Show details"
+        command="@MenuShowListMode"
+        value="details"
+        variable="menu_show_list"
+    />
+    <separator/>
+    <!--
+            end insertion
+    -->
+        <checkbutton
+            label="Show statusbar"
+            command="@ToggleStatusbar"
+            variable="show_statusbar"
+        />
+    </menu>
+</tkmenu>
