@@ -1,0 +1,10 @@
+::::::::::::::::::::textpak=>eggs.txt
+eggs
+::::::::::::::::::::textpak=>ham.txt
+h
+  a
+     m
+::::::::::::::::::::textpak=>spam.txt
+spam
+Spam
+SPAM

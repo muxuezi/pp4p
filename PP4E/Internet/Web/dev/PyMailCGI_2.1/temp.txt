@@ -1,0 +1,57 @@
+Status: RO
+Return-Path: <srmbctl@bubbygram.com>
+Received: from 209.86.93.156 ([208.9.119.16])
+	by mx-harris.atl.sa.earthlink.net (EarthLink SMTP Server) with SMTP id 1f7GFi6Dg3Nl36v0; Fri, 10 Feb 2006 17:22:57 -0500 (EST)
+Message-Id: <6022186598.16304995299@59lawnside.freeserve.co.uk>
+From: "Jeffry Yoder" <srmbctl@bubbygram.com>
+To: "Catherine179" <srmbctl@bubbygram.com>
+Subject: lamarck contiguity
+Date: Fri, 10 Feb 2006 18:14:52 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="us-ascii"
+X-ELNK-Info: spv=0;
+X-ELNK-AV: 0
+X-ELNK-Info: sbv=0; sbrc=.0; sbf=00; sbw=000;
+****************************************Status: RO
+
+Return-Path: <srmbctl@bubbygram.com>
+
+Received: from 209.86.93.156 ([208.9.119.16])
+
+	by mx-harris.atl.sa.earthlink.net (EarthLink SMTP Server) with SMTP id 1f7GFi6Dg3Nl36v0; Fri, 10 Feb 2006 17:22:57 -0500 (EST)
+
+Message-Id: <6022186598.16304995299@59lawnside.freeserve.co.uk>
+
+From: "Jeffry Yoder" <srmbctl@bubbygram.com>
+
+To: "Catherine179" <srmbctl@bubbygram.com>
+
+Subject: lamarck contiguity
+
+Date: Fri, 10 Feb 2006 18:14:52 -0400
+
+MIME-Version: 1.0
+
+Content-Type: text/html;
+
+	charset="us-ascii"
+
+X-ELNK-Info: spv=0;
+
+X-ELNK-AV: 0
+
+X-ELNK-Info: sbv=0; sbrc=.0; sbf=00; sbw=000;
+
+X-NAS-Language: English
+
+X-NAS-Bayes: #0: 1.1569E-009; #1: 1
+
+X-NAS-Classification: 0
+
+X-NAS-MessageID: 1545
+
+X-NAS-Validation: {388D038F-95BF-4409-9404-7726720152C4}
+
+XXXhdr:Received['from 209.86.93.156 ([208.9.119.16])\n\tby mx-harris.atl.sa.earthlink.net (EarthLink SMTP Server) with SMTP id 1f7GFi6Dg3Nl36v0; Fri, 10 Feb 2006 17:22:57 -0500 (EST)']
+               ['from 209.86.93.156 ([208.9.119.16])\r\n\tby mx-harris.atl.sa.earthlink.net (EarthLink SMTP Server) with SMTP id 1f7GFi6Dg3Nl36v0; Fri, 10 Feb 2006 17:22:57 -0500 (EST)']

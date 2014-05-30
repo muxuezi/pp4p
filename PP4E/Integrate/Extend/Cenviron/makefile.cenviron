@@ -1,0 +1,13 @@
+##################################################################
+# Compile cenviron.c into cenviron.dll--a shareable object file
+# on Cygwin, which is loaded dynamically when first imported.
+##################################################################
+
+PYLIB = /usr/local/bin
+PYINC = /usr/local/include/python3.1
+
+cenviron.dll: cenviron.c
+	gcc cenviron.c -g -I$(PYINC) -shared  -L$(PYLIB) -lpython3.1 -o $@
+
+clean:
+	rm -f *.pyc cenviron.dll

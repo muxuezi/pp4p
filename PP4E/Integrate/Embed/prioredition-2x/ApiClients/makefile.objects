@@ -1,0 +1,21 @@
+######################################################################
+# Cygwin makefile to build object call examples:
+# to use, run command "make -f makefile.clients"
+######################################################################
+
+PYLIB = /usr/bin
+PYINC = /usr/include/python2.4
+
+OBJECTS = objects-low.exe objects-err-low.exe
+
+all: $(OBJECTS)
+
+objects%: objects%.o
+	gcc objects$*.o -L$(PYLIB) -lpython2.4 -g -o objects$*
+
+objects%.o: objects%.c
+	gcc objects$*.c -c -g -I$(PYINC)
+
+clean:
+	rm -f *.o *.pyc $(OBJECTS) core
+

@@ -1,0 +1,9 @@
+Sending this from PyMailCGI.  The mail goes from the web browser client, to 
+the HTTP web server (running locally on the same machine), to the Python CGI
+script, and finally to the SMTP email server at my ISP before being delivered.
+When later fetched in PyMailCGI, it goes from ISP POP server, to CGI script, 
+and back to the browser client.  The HTTP server and CGI script intermediate
+steps are not present when using the PyMailGUI "desktop" client program.
+ 
+Thanks,
+--Mark Lutz  (http://learning-python.com, http://rmi.net/~lutz)

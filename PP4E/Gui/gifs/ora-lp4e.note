@@ -1,0 +1,5 @@
+The fourth edition of Learning Python (September 2009), with Python
+core language fundamentals coverage for both Python 2.6 and 3.X.  It 
+focuses on 3.X, but presents 2.X differences along the way.  It has 
+also been augmented with a new OOP case study chapter, plus advanced
+chapters on Unicode, managed attributes, decorators, and metaclasses.

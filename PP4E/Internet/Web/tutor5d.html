@@ -1,0 +1,20 @@
+<HTML><TITLE>CGI 101</TITLE>
+<BODY>
+<H1>Common input devices: hidden form fields</H1>
+
+<P>This demo invokes the tutor5.py server-side script again,
+but hardcodes input data in the form itself as hidden input
+fields, instead of as parameters at the end of URL hyperlinks.
+As before, the text of this form, including the hidden fields,
+can be generated as part of the page output by another CGI
+script, to pass data on to the next script on submit; hidden
+form fields provide another way to save state between pages.
+</P><HR><p>
+
+<form method=post action="cgi-bin/tutor5.py">
+    <input type=hidden name=name     value=Sue>
+    <input type=hidden name=language value=Python>
+    <input type=text   name=job      value="Enter job">
+    <input type=submit value="Submit Sue">
+</form>
+</p><HR></BODY></HTML>

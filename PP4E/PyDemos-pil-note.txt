@@ -1,0 +1,37 @@
+PyPhoto requires the PIL open source Python imaging library 
+to be installed separately, for image thumbnail generation, 
+and for viewing of some photo types.  See the book for details,
+and search the web to fetch and download PIL for Python 3.X.
+A prerelease 3.X version of PIL is in the book examples tree.
+
+Also note that images in this distribution and its saved mail
+files were reduced in size and resolution to save space.  Use
+images of your own to experiment further.
+
+
+**UPDATE OCTOBER 2013 (examples version 1.4)**
+
+PIL is now Pillow.  As of today, PIL's functionality
+is provided in a fork named Pillow, available at:
+
+    https://pypi.python.org/pypi/Pillow/
+
+Pillow is a drop-in replacement for PIL, with installers
+for all Pythons in common use, incuding 3.3.  For example, 
+on Windows 32- and 64-bit systems, respectively, fetch and
+install the following for Python 3.3:
+
+    Pillow-2.2.1.win32-py3.3.exe
+    Pillow-2.2.1.win-amd64-py3.3.exe
+
+All book image examples work with the Pillow install under 
+Python 3.3 and 3.2, including PyPhoto, which uses tkinter 
+image display, thumbnail generation, and resize operations.
+I've also used Pillow for EXIF photo metadata tag processing.
+
+Do not use the partial PIL version in this folder unless
+you are runing Python 3.1 on Windows; fetch Pillow instead.
+
+
+
+

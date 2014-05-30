@@ -1,0 +1,17 @@
+######################################################################
+# Cygwin makefile that builds cregister.dll. a dynamically loaded
+# C extension module (shareable), which is imported by register.py
+######################################################################
+
+PYLIB = /usr/local/bin
+PYINC = /usr/local/include/python3.1
+
+CMODS = cregister.dll
+
+all: $(CMODS)
+
+cregister.dll: cregister.c
+	gcc cregister.c -g -I$(PYINC) -shared -L$(PYLIB) -lpython3.1 -o $@
+
+clean:
+	rm -f *.pyc $(CMODS)

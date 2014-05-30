@@ -1,0 +1,292 @@
+--------------------
+Comparing F:\writing-backups\feb-26-10\dev to C:\Users\mark\Stuff\Books\4E\PP4E\dev
+Directory lists are identical
+Comparing contents
+ch00.doc DIFFERS
+ch01.doc matches
+ch02.doc DIFFERS
+ch03.doc matches
+ch04.doc DIFFERS
+ch05.doc matches
+ch06.doc DIFFERS
+ch22.doc matches
+ORA.dot matches
+part1.doc matches
+part2.doc matches
+part3.doc matches
+part4.doc matches
+part5.doc matches
+part6.doc matches
+TOC.txt DIFFERS
+~$ORA.dot matches
+--------------------
+Comparing F:\writing-backups\feb-26-10\dev\Examples to C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples
+Directory lists are identical
+Comparing contents
+README.txt matches
+--------------------
+Comparing F:\writing-backups\feb-26-10\dev\Examples\PP4E to C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E
+Directory lists are identical
+Comparing contents
+__init__.py matches
+__init__.pyc matches
+--------------------
+Comparing F:\writing-backups\feb-26-10\dev\Examples\PP4E\Preview to C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Preview
+Directory lists are identical
+Comparing contents
+attachgui.py matches
+bob.pkl matches
+cgi101.html matches
+class-shelve.bak matches
+class-shelve.dat matches
+class-shelve.dir matches
+customizegui.py matches
+dump_db_classes.py matches
+dump_db_file.py matches
+dump_db_pickle.py matches
+dump_db_pickle_recs.py matches
+dump_db_shelve.py matches
+fungui.py matches
+initdata.py matches
+initdata.pyc matches
+initial-interaction.txt matches
+make_db_classes.py matches
+make_db_file.py matches
+make_db_file.pyc matches
+make_db_pickle.py matches
+make_db_pickle_recs.py matches
+make_db_shelve.py matches
+manager.py matches
+manager.pyc matches
+people-file matches
+people-pickle matches
+people-shelve.bak matches
+people-shelve.dat matches
+people-shelve.dir matches
+peoplecgi.html matches
+peoplegui--frame.py matches
+peoplegui--old.py matches
+peoplegui.py matches
+peopleinteract_query.py matches
+peopleinteract_update.py matches
+person.py matches
+person.pyc matches
+person_alternative.py matches
+person_start.py matches
+person_start.pyc matches
+py-blue-trans-out.ico matches
+sue.pkl matches
+tkinter001.py matches
+tkinter101.py matches
+tkinter102.py matches
+tkinter102.pyc matches
+tkinter103.py matches
+tom.pkl matches
+update_db_classes.py matches
+update_db_file.py matches
+update_db_pickle.py matches
+update_db_pickle_recs.py matches
+update_db_shelve.py matches
+webserver.py matches
+--------------------
+Comparing F:\writing-backups\feb-26-10\dev\Examples\PP4E\Preview\cgi-bin to C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Preview\cgi-bin
+Directory lists are identical
+Comparing contents
+cgi101.py matches
+peoplecgi.py matches
+--------------------
+Comparing F:\writing-backups\feb-26-10\dev\Examples\PP4E\System to C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\System
+Directory lists are identical
+Comparing contents
+helloshell.py matches
+more.py matches
+more.pyc matches
+myscript.txt matches
+spam.txt matches
+testargv.py matches
+testargv2.py matches
+whereami.py matches
+__init__.py matches
+__init__.pyc matches
+--------------------
+Comparing F:\writing-backups\feb-26-10\dev\Examples\PP4E\System\Environment to C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\System\Environment
+Directory lists are identical
+Comparing contents
+echoenv.py matches
+setenv.py matches
+--------------------
+Comparing F:\writing-backups\feb-26-10\dev\Examples\PP4E\System\Filetools to C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\System\Filetools
+Files unique to C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\System\Filetools
+... copytemp
+... cpall.py
+... diff2.txt
+... diff3.txt
+... diffall.py
+... diffs.txt
+... dirdiff.py
+... dirdiff.pyc
+Comparing contents
+bigext-tree.py matches
+bigpy-dir.py matches
+bigpy-path.py matches
+bigpy-tree.py matches
+join.py matches
+join.pyc matches
+site-forward.py matches
+split.py matches
+split.pyc matches
+temp.txt matches
+template.html matches
+__init__.py matches
+__init__.pyc matches
+--------------------
+Comparing F:\writing-backups\feb-26-10\dev\Examples\PP4E\System\Processes to C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\System\Processes
+Directory lists are identical
+Comparing contents
+multi1.py matches
+multi1.pyc matches
+multi2.py matches
+multi2.pyc matches
+multi3.py matches
+multi3.pyc matches
+multi4.py matches
+multi4.pyc matches
+--------------------
+Comparing F:\writing-backups\feb-26-10\dev\Examples\PP4E\System\Streams to C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\System\Streams
+Directory lists are identical
+Comparing contents
+adder.py matches
+adder2.py matches
+adder3.py matches
+adderSmall.py matches
+data.txt matches
+hello-in.py matches
+hello-in.txt matches
+hello-out.py matches
+input.txt matches
+moreplus.py matches
+moreplus.pyc matches
+output.txt matches
+reader.py matches
+redirect.py matches
+redirect.pyc matches
+sorter.py matches
+sorterSmall.py matches
+teststreams.py matches
+teststreams.pyc matches
+writer.py matches
+writer2.py matches
+--------------------
+Comparing F:\writing-backups\feb-26-10\dev\Examples\PP4E\System\Tester to C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\System\Tester
+Directory lists are identical
+Comparing contents
+tester.py matches
+--------------------
+Comparing F:\writing-backups\feb-26-10\dev\Examples\PP4E\System\Tester\Args to C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\System\Tester\Args
+Directory lists are identical
+Comparing contents
+test-basic-args.args matches
+test-status-good.args matches
+--------------------
+Comparing F:\writing-backups\feb-26-10\dev\Examples\PP4E\System\Tester\Errors to C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\System\Tester\Errors
+Directory lists are identical
+Comparing contents
+test-errors-runtime.err matches
+test-errors-syntax.err matches
+--------------------
+Comparing F:\writing-backups\feb-26-10\dev\Examples\PP4E\System\Tester\Inputs to C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\System\Tester\Inputs
+Directory lists are identical
+Comparing contents
+test-basic-args.in matches
+test-basic-streams.in matches
+--------------------
+Comparing F:\writing-backups\feb-26-10\dev\Examples\PP4E\System\Tester\Outputs to C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\System\Tester\Outputs
+Directory lists are identical
+Comparing contents
+test-basic-args.out matches
+test-basic-stdout.out matches
+test-basic-stdout.out.bad matches
+test-basic-streams.out matches
+test-basic-this.out matches
+test-errors-runtime.out.bad matches
+test-errors-syntax.out.bad matches
+test-status-bad.out.bad matches
+test-status-good.out matches
+--------------------
+Comparing F:\writing-backups\feb-26-10\dev\Examples\PP4E\System\Tester\Scripts to C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\System\Tester\Scripts
+Directory lists are identical
+Comparing contents
+test-basic-args.py matches
+test-basic-stdout.py matches
+test-basic-streams.py matches
+test-basic-this.py matches
+test-errors-runtime.py matches
+test-errors-syntax.py matches
+test-status-bad.py matches
+test-status-good.py matches
+--------------------
+Comparing F:\writing-backups\feb-26-10\dev\Examples\PP4E\System\Tester\xxold to C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\System\Tester\xxold
+Directory lists are identical
+Comparing contents
+README.txt.txt matches
+regrtest0.py matches
+regrtest1.py matches
+regrtest2.py matches
+regrtest3.py matches
+--------------------
+Comparing F:\writing-backups\feb-26-10\dev\Examples\PP4E\System\Threads to C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\System\Threads
+Directory lists are identical
+Comparing contents
+--------------------
+Comparing F:\writing-backups\feb-26-10\dev\Examples\PP4E\Tools to C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Tools
+Directory lists are identical
+Comparing contents
+cleanpyc-find.py matches
+cleanpyc-shell.py matches
+cleanpyc.py matches
+cleanpyc0.py matches
+find.py matches
+find.pyc matches
+visitor.py DIFFERS
+visitor.pyc matches
+visitor_cleanpyc.py matches
+visitor_collect.py matches
+visitor_edit.py matches
+visitor_poundbang.py matches
+visitor_replace.py matches
+visitor_sloc.py matches
+__init__.py matches
+__init__.pyc matches
+--------------------
+Comparing F:\writing-backups\feb-26-10\dev\ScreenShots to C:\Users\mark\Stuff\Books\4E\PP4E\dev\ScreenShots
+Directory lists are identical
+Comparing contents
+figure-1-1.png matches
+figure-1-10.png matches
+figure-1-11.png matches
+figure-1-12.png matches
+figure-1-13.png matches
+figure-1-14.png matches
+figure-1-15.png matches
+figure-1-16.png matches
+figure-1-17.png matches
+figure-1-18.png matches
+figure-1-19.png matches
+figure-1-2.png matches
+figure-1-3.png matches
+figure-1-4.png matches
+figure-1-5.png matches
+figure-1-6.png matches
+figure-1-7.png matches
+figure-1-8.png matches
+figure-1-9.png matches
+figure-6-1.png matches
+========================================
+Diffs found: 7
+- files differ at F:\writing-backups\feb-26-10\dev\ch00.doc - C:\Users\mark\Stuff\Books\4E\PP4E\dev\ch00.doc
+- files differ at F:\writing-backups\feb-26-10\dev\ch02.doc - C:\Users\mark\Stuff\Books\4E\PP4E\dev\ch02.doc
+- files differ at F:\writing-backups\feb-26-10\dev\ch04.doc - C:\Users\mark\Stuff\Books\4E\PP4E\dev\ch04.doc
+- files differ at F:\writing-backups\feb-26-10\dev\ch06.doc - C:\Users\mark\Stuff\Books\4E\PP4E\dev\ch06.doc
+- files differ at F:\writing-backups\feb-26-10\dev\TOC.txt - C:\Users\mark\Stuff\Books\4E\PP4E\dev\TOC.txt
+- unique files at F:\writing-backups\feb-26-10\dev\Examples\PP4E\System\Filetools - C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\System\Filetools
+- files differ at F:\writing-backups\feb-26-10\dev\Examples\PP4E\Tools\visitor.py - C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Tools\visitor.py

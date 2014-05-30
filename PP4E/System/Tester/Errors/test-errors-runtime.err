@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File ".\Scripts\test-errors-runtime.py", line 3, in <module>
+    print(1 / 0)
+ZeroDivisionError: int division or modulo by zero

@@ -1,0 +1,9 @@
+C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\System\Tester
+C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\System\Tester\Scripts
+[argv]
+.\Scripts\test-basic-args.py
+-command
+-line
+--stuff
+[interaction]
+Enter text:EggsEggsEggsEggsEggsEggsEggsEggsEggsEggs

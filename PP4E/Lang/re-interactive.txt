@@ -1,0 +1,124 @@
+>>> text1 = 'Hello spam...World'
+>>> text2 = 'Hello spam...other'
+
+>>> import re
+>>> matchobj = re.match('Hello(.*)World', text2)
+>>> print(matchobj)
+
+>>> matchobj = re.match('Hello(.*)World', text1)
+>>> print(matchobj)
+
+>>> matchobj.group(1)
+
+>>> pattobj  = re.compile('Hello(.*)World')
+>>> matchobj = pattobj.match(text1)
+>>> matchobj.group(1)
+
+>>> patt = '[ \t]*Hello[ \t]+(.*)[Ww]orld'
+>>> line = ' Hello   spamworld'
+>>> mobj = re.match(patt, line)
+>>> mobj.group(1)
+
+
+
+>>> 'aaa--bbb--ccc'.split('--')
+['aaa', 'bbb', 'ccc']
+>>> 'aaa--bbb--ccc'.replace('--', '...')        # string methods use fixed strings
+'aaa...bbb...ccc'
+
+>>> 'aaa--bbb==ccc'.split(['--', '=='])
+TypeError: Can't convert 'list' object to str implicitly
+>>> 'aaa--bbb==ccc'.replace(['--', '=='], '...')
+TypeError: Can't convert 'list' object to str implicitly
+
+
+>>> import re
+>>> re.split('--', 'aaa--bbb--ccc')
+['aaa', 'bbb', 'ccc']
+>>> re.sub('--', '...', 'aaa--bbb--ccc')            # single string case
+'aaa...bbb...ccc'
+
+>>> re.split('--|==', 'aaa--bbb==ccc')              # split on -- or == 
+['aaa', 'bbb', 'ccc']
+>>> re.sub('--|==', '...', 'aaa--bbb==ccc')         # replace -- or ==
+'aaa...bbb...ccc'
+
+>>> re.split('[-=]', 'aaa-bbb=ccc')                 # single char alternative
+['aaa', 'bbb', 'ccc']
+
+>>> re.split('(--)|(==)', 'aaa--bbb==ccc')          # split includes groups
+['aaa', '--', None, 'bbb', None, '==', 'ccc']
+>>> re.split('(?:--)|(?:==)', 'aaa--bbb==ccc')      # expr part, not group
+['aaa', 'bbb', 'ccc']
+
+
+>>> 'spam/ham/eggs'.split('/')
+['spam', 'ham', 'eggs']
+
+>>> re.match('(.*)/(.*)/(.*)', 'spam/ham/eggs').groups()
+('spam', 'ham', 'eggs')
+
+>>> re.match('<(.*)>/<(.*)>/<(.*)>', '<spam>/<ham>/<eggs>').groups()
+('spam', 'ham', 'eggs')
+
+>>> re.match('\s*<(.*)>/?<(.*)>/?<(.*)>', '  <spam>/<ham><eggs>').groups()
+('spam', 'ham', 'eggs')
+
+>>> 'Hello pattern world!'.split()
+['Hello', 'pattern', 'world!']
+>>> re.match('Hello\s*([a-z]*)\s+(.*?)\s*!', 'Hellopattern   world !').groups()
+('pattern', 'world')
+
+
+>>> '<spam>/<ham>/<eggs>'.find('ham')               # find subtring offset
+8
+>>> re.findall('<(.*?)>', '<spam>/<ham>/<eggs>')    # find all matches/groups
+['spam', 'ham', 'eggs']
+>>> re.findall('<(.*?)>', '<spam> /  <ham><eggs>')
+['spam', 'ham', 'eggs']
+
+>>> re.findall('<(.*?)>/?<(.*?)>', '<spam>/<ham> ... <eggs><cheese>')
+[('spam', 'ham'), ('eggs', 'cheese')]
+>>> re.search('<(.*?)>/?<(.*?)>', 'todays menu: <spam>/<ham>...<eggs><s>').groups()
+('spam', 'ham')
+
+
+>>> re.findall('<(.*?)>.*<(.*?)>', '<spam> \n  <ham>\n<eggs>')        # stop at \n
+[]
+>>> re.findall('(?s)<(.*?)>.*<(.*?)>', '<spam> \n  <ham>\n<eggs>')    # greedy
+[('spam', 'eggs')]
+>>> re.findall('(?s)<(.*?)>.*?<(.*?)>', '<spam> \n  <ham>\n<eggs>')   # nongreedy
+[('spam', 'ham')] 
+
+
+>>> re.search('(?P<part1>\w*)/(?P<part2>\w*)', '...aaa/bbb/ccc]').groups()
+('aaa', 'bbb')
+>>> re.search('(?P<part1>\w*)/(?P<part2>\w*)', '...aaa/bbb/ccc]').groupdict()
+{'part1': 'aaa', 'part2': 'bbb'}
+
+>>> re.search('(?P<part1>\w*)/(?P<part2>\w*)', '...aaa/bbb/ccc]').group(2)
+'bbb'
+>>> re.search('(?P<part1>\w*)/(?P<part2>\w*)', '...aaa/bbb/ccc]').group('part2')
+'bbb'
+
+>>> re.findall('(?P<part1>\w*)/(?P<part2>\w*)', '...aaa/bbb ccc/ddd]')
+[('aaa', 'bbb'), ('ccc', 'ddd')]
+
+
+>>> line = 'aaa bbb ccc'
+>>> line[:3], line[4:7], line[8:11]          # slice data at fixed offsets
+('aaa', 'bbb', 'ccc')
+>>> line.split()                             # split data with fixed delimiters
+['aaa', 'bbb', 'ccc']
+
+>>> re.split(' +', line)                     # split on general delimiters
+['aaa', 'bbb', 'ccc']
+>>> re.findall('[^ ]+', line)                # find non-delimiter runs
+['aaa', 'bbb', 'ccc']
+
+>>> line = 'aaa...bbb-ccc / ddd.-/e&e*e'     # handle generalized text
+>>> re.findall('[^ .\-/]+', line)
+['aaa', 'bbb', 'ccc', 'ddd', 'e&e*e']
+
+
+

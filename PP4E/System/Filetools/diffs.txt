@@ -1,0 +1,2176 @@
+--------------------
+Comparing C:\temp\PP3E\Examples to copytemp
+Directory lists are identical
+Comparing contents
+README-root.txt matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E to copytemp\PP3E
+Directory lists are identical
+Comparing contents
+echoEnvironment.pyw matches
+LaunchBrowser.pyw matches
+Launcher.py matches
+Launcher.pyc matches
+launchmodes.py matches
+launchmodes.pyc matches
+Launch_PyDemos.pyw matches
+Launch_PyGadgets_bar.pyw matches
+PyDemos-pil-note.txt matches
+PyDemos2.pyw matches
+PyGadgets.py matches
+PyGadgets.pyc matches
+PyGadgets_bar.pyw matches
+README-PP3E.txt matches
+todos.py matches
+tounix.py matches
+__init__.py matches
+__init__.pyc matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Ai to copytemp\PP3E\Ai
+Directory lists are identical
+Comparing contents
+README.txt matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Ai\ExpertSystem to copytemp\PP3E\Ai\ExpertSystem
+Directory lists are identical
+Comparing contents
+holmes.tar.gz matches
+Todo.txt matches
+verif.txt matches
+__init__.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Ai\ExpertSystem\holmes to copytemp\PP3E\Ai\ExpertSystem\holmes
+Directory lists are identical
+Comparing contents
+cnv matches
+README.1ST matches
+README.2ND matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Ai\ExpertSystem\holmes\examples to copytemp\PP3E\Ai\ExpertSystem\holmes\examples
+Directory lists are identical
+Comparing contents
+loga.txt matches
+logb.txt matches
+logc.txt matches
+logd.txt matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Ai\ExpertSystem\holmes\holmes to copytemp\PP3E\Ai\ExpertSystem\holmes\holmes
+Directory lists are identical
+Comparing contents
+backward.py matches
+backwrd2.py matches
+backwrd3.py matches
+backwrd4.py matches
+backwrd5.py matches
+backwrd6.py matches
+backwrd7.py matches
+forward.py matches
+forward2.py matches
+holmes.doc.txt matches
+holmes.py matches
+kbase.py matches
+match.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Ai\ExpertSystem\holmes\holmes2 to copytemp\PP3E\Ai\ExpertSystem\holmes\holmes2
+Directory lists are identical
+Comparing contents
+backward.py matches
+backwrd3.py matches
+backwrd4.py matches
+backwrd5.py matches
+backwrd6.py matches
+backwrd7.py matches
+forward.py matches
+forward2.py matches
+holmes.doc.txt matches
+holmes.py matches
+index.py matches
+kbase.py matches
+match.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Ai\ExpertSystem\holmes\holmes3 to copytemp\PP3E\Ai\ExpertSystem\holmes\holmes3
+Directory lists are identical
+Comparing contents
+backward.py matches
+backwrd5.py matches
+backwrd7.py matches
+forward.py matches
+forward2.py matches
+holmes.doc.txt matches
+holmes.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Ai\ExpertSystem\holmes\kbases to copytemp\PP3E\Ai\ExpertSystem\holmes\kbases
+Directory lists are identical
+Comparing contents
+eats.kb matches
+eats2.kb matches
+fixit.kb matches
+t.kb matches
+zoo.kb matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Ai\TicTacToe to copytemp\PP3E\Ai\TicTacToe
+Directory lists are identical
+Comparing contents
+temp.notes.txt matches
+temp.out.txt.gz matches
+tictactoe.py matches
+tictactoe_dict.py matches
+tictactoe_grid.py matches
+tictactoe_lists.py matches
+tictactoe_lists_2.py matches
+tictactoe_loop.py matches
+tictactoe_slow.py matches
+tictactoe_times.txt matches
+__init__.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Database to copytemp\PP3E\Database
+Directory lists are identical
+Comparing contents
+README.txt matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Database\SQLscripts to copytemp\PP3E\Database\SQLscripts
+Directory lists are identical
+Comparing contents
+cleardb.py matches
+data.txt matches
+data2.txt matches
+dumpdb.py matches
+loaddb.py matches
+loaddb1.py matches
+makedb.py matches
+makedicts.py matches
+querydb.py matches
+testdb.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Database\ZODBscripts to copytemp\PP3E\Database\ZODBscripts
+Directory lists are identical
+Comparing contents
+person-test.py matches
+person.py matches
+viewzodb.py matches
+zodb-class-make.py matches
+zodb-class-read.py matches
+zodbtools.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Dbase to copytemp\PP3E\Dbase
+Directory lists are identical
+Comparing contents
+castdump.py matches
+castinit.py matches
+castview.py matches
+filepickle.py matches
+interact-dbm.txt matches
+interact-pickle.txt matches
+interact-shelve.txt matches
+person-2.py matches
+person.py matches
+README.txt matches
+testdata.py matches
+__init__.py matches
+__init__.pyc matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Dbase\TableBrowser to copytemp\PP3E\Dbase\TableBrowser
+Directory lists are identical
+Comparing contents
+dbinit1.py matches
+dbinit2.py matches
+dbview.py matches
+formgui.py matches
+formtable.py matches
+guitools.py matches
+guitools.pyc matches
+viewsysmod.py matches
+__init__.py matches
+__init__.pyc matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Dstruct to copytemp\PP3E\Dstruct
+Directory lists are identical
+Comparing contents
+__init__.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Dstruct\Basic to copytemp\PP3E\Dstruct\Basic
+Directory lists are identical
+Comparing contents
+diff.py matches
+fastset.py matches
+fastset2.py matches
+fastset3.py matches
+inter.py matches
+inter2.py matches
+reltest.py matches
+rset.py matches
+set.py matches
+settime.py matches
+stack1.py matches
+stack2.py matches
+stack3.py matches
+stack4.py matches
+stacklog.py matches
+stacktime.py matches
+timer.py matches
+typesubclass.py matches
+typesubclasses.py matches
+__init__.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Dstruct\Classics to copytemp\PP3E\Dstruct\Classics
+Directory lists are identical
+Comparing contents
+btree-keys.py matches
+btree.py matches
+graph.py matches
+gsearch1.py matches
+gsearch2.py matches
+gtestfunc.py matches
+gtestobj1.py matches
+gtestobj2.py matches
+permcomb.py matches
+rev1.py matches
+rev2.py matches
+sort1.py matches
+sort2.py matches
+__init__.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Dstruct\Classics\MoreGraphs to copytemp\PP3E\Dstruct\Classics\MoreGraphs
+Directory lists are identical
+Comparing contents
+graph.py matches
+graph2.py matches
+graph3.py matches
+gsearch1.py matches
+gsearch2.py matches
+gtest.py matches
+gtest2.py matches
+readme.txt matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Dstruct\OldIntro to copytemp\PP3E\Dstruct\OldIntro
+Directory lists are identical
+Comparing contents
+fastset.out matches
+fastset.py matches
+graph.py matches
+inter.py matches
+set.out matches
+set.py matches
+stack.out matches
+stack1.py matches
+stack2.py matches
+stack3.py matches
+vector.py matches
+vector.txt matches
+vector2.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Dstruct\TreeView to copytemp\PP3E\Dstruct\TreeView
+Directory lists are identical
+Comparing contents
+treeview.py matches
+treeview_wrappers.py matches
+__init__.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Dstruct\TreeView\alts to copytemp\PP3E\Dstruct\TreeView\alts
+Directory lists are identical
+Comparing contents
+treeview_left.py matches
+treeview_subclass.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras to copytemp\PP3E\extras
+Directory lists are identical
+Comparing contents
+copyinits.py matches
+filtermail.py matches
+README.txt matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\Assorted to copytemp\PP3E\extras\Assorted
+Directory lists are identical
+Comparing contents
+BNRLOG-1.txt.gz matches
+BNRLOG-2.txt.gz matches
+BNRLOG.txt matches
+data.txt matches
+gui1.py matches
+guia.py matches
+guijp.py matches
+HTMLPARSER.py matches
+infile.txt matches
+interact.py matches
+largedir.py matches
+largetree.py matches
+makedb.py matches
+min.py matches
+minmax.py matches
+people.py matches
+person.py matches
+sendphoto.py matches
+summer.py matches
+summer2.py matches
+summer3.py matches
+SUMUP.py matches
+test1.py matches
+test1.py.result matches
+test2.py matches
+test2.py.result matches
+tester.py matches
+timerloops.py matches
+uinteract.py matches
+updatedb.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\BnrNov06 to copytemp\PP3E\extras\BnrNov06
+Directory lists are identical
+Comparing contents
+bnr1.py matches
+bnr2.py matches
+excs.txt matches
+gui1.py matches
+interact.py matches
+min.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\BnrNov06\Bigfile to copytemp\PP3E\extras\BnrNov06\Bigfile
+Directory lists are identical
+Comparing contents
+bnrdir.py matches
+bnrtree.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\BnrNov06\PersonDB to copytemp\PP3E\extras\BnrNov06\PersonDB
+Directory lists are identical
+Comparing contents
+makedb.py matches
+person.py matches
+updatedb.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\BnrNov06\Sumit to copytemp\PP3E\extras\BnrNov06\Sumit
+Directory lists are identical
+Comparing contents
+data.txt matches
+sumit.py matches
+sumit2.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\BnrNov06\Tester to copytemp\PP3E\extras\BnrNov06\Tester
+Directory lists are identical
+Comparing contents
+tester.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\BnrNov06\Tester\Outputs to copytemp\PP3E\extras\BnrNov06\Tester\Outputs
+Directory lists are identical
+Comparing contents
+test1.py.out matches
+test2.py.out matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\BnrNov06\Tester\Scripts to copytemp\PP3E\extras\BnrNov06\Tester\Scripts
+Directory lists are identical
+Comparing contents
+test1.py matches
+test2.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\EPNov06 to copytemp\PP3E\extras\EPNov06
+Directory lists are identical
+Comparing contents
+bigdir.py matches
+bigtree.py matches
+ep1.py matches
+ep2.py matches
+gui1.pyw matches
+summer.py matches
+summer2.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\FermAdvancedClass to copytemp\PP3E\extras\FermAdvancedClass
+Directory lists are identical
+Comparing contents
+bigdir.py matches
+bigtree.py matches
+bobfile matches
+bobobj matches
+client.py matches
+data.txt matches
+fermi1 matches
+gui1.py matches
+gui2.py matches
+logfile matches
+majkedb.py matches
+makedb.py matches
+mt1db matches
+person.py matches
+server.py matches
+smtpmail.py matches
+spams.py matches
+sueobj matches
+sum1.py matches
+sum2.py matches
+tester.py matches
+timer.py matches
+updatedb.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\FermAdvancedClass\tester to copytemp\PP3E\extras\FermAdvancedClass\tester
+Directory lists are identical
+Comparing contents
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\FermAdvancedClass\tester\args to copytemp\PP3E\extras\FermAdvancedClass\tester\args
+Directory lists are identical
+Comparing contents
+test1.arg matches
+test2.arg matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\FermAdvancedClass\tester\inputs to copytemp\PP3E\extras\FermAdvancedClass\tester\inputs
+Directory lists are identical
+Comparing contents
+test1.in matches
+test2.in matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\FermAdvancedClass\tester\outputs to copytemp\PP3E\extras\FermAdvancedClass\tester\outputs
+Directory lists are identical
+Comparing contents
+test1.out matches
+test2.out matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\FermAdvancedClass\tester\tests to copytemp\PP3E\extras\FermAdvancedClass\tester\tests
+Directory lists are identical
+Comparing contents
+test1.py matches
+test2.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\GetcoEmployeeProject to copytemp\PP3E\extras\GetcoEmployeeProject
+Directory lists are identical
+Comparing contents
+about-lp2e.html matches
+adminEmpl.py matches
+employee.py matches
+engrEmpl.py matches
+makeshelve.py matches
+shelvedb matches
+updateshelve.py matches
+viewdb.py matches
+viewer.html matches
+webserver.py matches
+zodb1.fs matches
+zodb1.fs.index matches
+zodb1.fs.lock matches
+zodb1.fs.tmp matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\GetcoEmployeeProject\cgi-bin to copytemp\PP3E\extras\GetcoEmployeeProject\cgi-bin
+Directory lists are identical
+Comparing contents
+cgi101.py matches
+viewrecord.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\LosAlamosAdvancedClass to copytemp\PP3E\extras\LosAlamosAdvancedClass
+Directory lists are identical
+Comparing contents
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\LosAlamosAdvancedClass\day1-system to copytemp\PP3E\extras\LosAlamosAdvancedClass\day1-system
+Directory lists are identical
+Comparing contents
+bigpy.py matches
+bigtree.py matches
+data.txt matches
+INTERACTIVE-LOG-1.txt.gz matches
+sqrt.out matches
+sqrt.py matches
+strings-ni.out matches
+strings-spam.out matches
+strings.py matches
+testcases.py matches
+tester-oop.py matches
+tester.py matches
+timematrix.py matches
+timeord.py matches
+timeseqs.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\LosAlamosAdvancedClass\day2-gui-dbase to copytemp\PP3E\extras\LosAlamosAdvancedClass\day2-gui-dbase
+Directory lists are identical
+Comparing contents
+classdb.py matches
+gui1.py matches
+gui2.py matches
+makepeople.py matches
+makepepleclass.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\LosAlamosAdvancedClass\day2-gui-dbase\sql to copytemp\PP3E\extras\LosAlamosAdvancedClass\day2-gui-dbase\sql
+Directory lists are identical
+Comparing contents
+testdb.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\LosAlamosAdvancedClass\day2-gui-dbase\zodb to copytemp\PP3E\extras\LosAlamosAdvancedClass\day2-gui-dbase\zodb
+Directory lists are identical
+Comparing contents
+zodb-class-read.py matches
+zodb-make.py matches
+zodb-read.py matches
+zodb_class_make.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\LosAlamosAdvancedClass\day3-internet-text to copytemp\PP3E\extras\LosAlamosAdvancedClass\day3-internet-text
+Directory lists are identical
+Comparing contents
+client.py matches
+data.txt matches
+INTERACTIVE-LOG-2.txt matches
+peopledb4 matches
+server.py matches
+summer.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\LosAlamosAdvancedClass\day3-internet-text\website to copytemp\PP3E\extras\LosAlamosAdvancedClass\day3-internet-text\website
+Directory lists are identical
+Comparing contents
+cgi101.html matches
+testcgi.py matches
+webserver.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\LosAlamosAdvancedClass\day3-internet-text\website\cgi-bin to copytemp\PP3E\extras\LosAlamosAdvancedClass\day3-internet-text\website\cgi-bin
+Directory lists are identical
+Comparing contents
+cgi101.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\LosAlamosAdvancedClass\day4-integrate-project to copytemp\PP3E\extras\LosAlamosAdvancedClass\day4-integrate-project
+Directory lists are identical
+Comparing contents
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\LosAlamosAdvancedClass\day4-integrate-project\Integrate-PP3E to copytemp\PP3E\extras\LosAlamosAdvancedClass\day4-integrate-project\Integrate-PP3E
+Directory lists are identical
+Comparing contents
+README.txt matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\LosAlamosAdvancedClass\day4-integrate-project\Project-dbase-gui to copytemp\PP3E\extras\LosAlamosAdvancedClass\day4-integrate-project\Project-dbase-gui
+Directory lists are identical
+Comparing contents
+dbasegui.py matches
+languages.db matches
+languages.txt matches
+makedbase.py matches
+peopletext.db matches
+peopletext.txt matches
+person.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\QualcommAdvClass to copytemp\PP3E\extras\QualcommAdvClass
+Directory lists are identical
+Comparing contents
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\QualcommAdvClass\BigPy to copytemp\PP3E\extras\QualcommAdvClass\BigPy
+Directory lists are identical
+Comparing contents
+bigdir.py matches
+biggerdir.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\QualcommAdvClass\Dbase to copytemp\PP3E\extras\QualcommAdvClass\Dbase
+Directory lists are identical
+Comparing contents
+bobfile matches
+db1.py matches
+db2.py matches
+dbfile matches
+testdb.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\QualcommAdvClass\Forms to copytemp\PP3E\extras\QualcommAdvClass\Forms
+Directory lists are identical
+Comparing contents
+forms1.py matches
+forms2.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\QualcommAdvClass\Gui1 to copytemp\PP3E\extras\QualcommAdvClass\Gui1
+Directory lists are identical
+Comparing contents
+gui1.py matches
+gui2.py matches
+gui3.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\QualcommAdvClass\Integrate to copytemp\PP3E\extras\QualcommAdvClass\Integrate
+Directory lists are identical
+Comparing contents
+where.txt matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\QualcommAdvClass\Internet to copytemp\PP3E\extras\QualcommAdvClass\Internet
+Directory lists are identical
+Comparing contents
+filtermail.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\QualcommAdvClass\Internet\website to copytemp\PP3E\extras\QualcommAdvClass\Internet\website
+Directory lists are identical
+Comparing contents
+cgi101.html matches
+webserver.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\QualcommAdvClass\Internet\website\cgi-bin to copytemp\PP3E\extras\QualcommAdvClass\Internet\website\cgi-bin
+Directory lists are identical
+Comparing contents
+cgi101.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\QualcommAdvClass\Tester to copytemp\PP3E\extras\QualcommAdvClass\Tester
+Directory lists are identical
+Comparing contents
+tester.py matches
+tester2.py matches
+tester3.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\QualcommAdvClass\Tester\outputs to copytemp\PP3E\extras\QualcommAdvClass\Tester\outputs
+Directory lists are identical
+Comparing contents
+test1.txt matches
+test2.txt matches
+test3.txt matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\QualcommAdvClass\Tester\scripts to copytemp\PP3E\extras\QualcommAdvClass\Tester\scripts
+Directory lists are identical
+Comparing contents
+test1.py matches
+test2.py matches
+test3.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\QualcommAdvClass\Text to copytemp\PP3E\extras\QualcommAdvClass\Text
+Directory lists are identical
+Comparing contents
+data.txt matches
+sumcols.py matches
+sumdict.py matches
+sumrows.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\QualcommAdvClass\Timer to copytemp\PP3E\extras\QualcommAdvClass\Timer
+Directory lists are identical
+Comparing contents
+timer.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\extras\SeagateOct06 to copytemp\PP3E\extras\SeagateOct06
+Directory lists are identical
+Comparing contents
+data.bin matches
+data.txt matches
+interact.py matches
+makedb.py matches
+min.py matches
+output.txt matches
+person.py matches
+sg1.py matches
+sg2.py matches
+sgdb matches
+updatedb.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Gui to copytemp\PP3E\Gui
+Directory lists are identical
+Comparing contents
+__init__.py matches
+__init__.pyc matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Gui\Clock to copytemp\PP3E\Gui\Clock
+Directory lists are identical
+Comparing contents
+clock.py matches
+clockStyles.py matches
+plotterGui.py matches
+plotterText-alt.py matches
+plotterText.py matches
+__init__.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Gui\gifs to copytemp\PP3E\Gui\gifs
+Directory lists are identical
+Comparing contents
+charmingpython.gif matches
+charmingpython.note matches
+frank.gif matches
+frank.note matches
+guido.gif matches
+guido.note matches
+guido_ddj.gif matches
+guido_ddj.note matches
+hahaha.gif matches
+hahaha.note matches
+hills.gif matches
+hills.note matches
+LJsuppcover.gif matches
+LJsuppcover.note matches
+ora-lp-france.gif matches
+ora-lp-france.note matches
+ora-lp.gif matches
+ora-lp.note matches
+ora-pp-japan2.gif matches
+ora-pp-japan2.note matches
+ora-pp.gif matches
+ora-pp.note matches
+ora-pp1e-s.gif matches
+ora-pp1e-s.note matches
+ora-pp2e.gif matches
+ora-pp2e.note matches
+ora-ppr-german.gif matches
+ora-ppr-german.note matches
+ora-ppr.gif matches
+ora-ppr.note matches
+ora-ppython-s.note matches
+oreilly_giraffe3.gif matches
+oreilly_giraffe3.note matches
+oreilly_moose3.gif matches
+oreilly_moose3.note matches
+oreilly_weasel3.gif matches
+oreilly_weasel3.note matches
+ousterhout.gif matches
+ousterhout.note matches
+ppython_sm_ad.gif matches
+ppython_sm_ad.note matches
+pythonHi.gif matches
+pythonHi.note matches
+pythonPowered.gif matches
+pythonPowered.note matches
+pythonwin.gif matches
+pythonwin.note matches
+python_conf_ora.gif matches
+python_conf_ora.note matches
+README.txt matches
+rmnp.gif matches
+rmnp.note matches
+training-alameda.gif matches
+training-alameda.note matches
+training-nyc.gif matches
+training-nyc.note matches
+training-puertorico-1.gif matches
+training-puertorico-1.note matches
+training-puertorico-2.gif matches
+training-puertorico-2.note matches
+training-uk-1.gif matches
+training-uk-1.note matches
+training-uk-2.gif matches
+training-uk-2.note matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Gui\Intro to copytemp\PP3E\Gui\Intro
+Directory lists are identical
+Comparing contents
+gui1-old.py matches
+gui1.py matches
+gui1.pyw matches
+gui1b.py matches
+gui1c.py matches
+gui1d.py matches
+gui1e.py matches
+gui1f.py matches
+gui1g.py matches
+gui2.py matches
+gui2b.py matches
+gui3-scopes.py matches
+gui3.py matches
+gui3b.py matches
+gui3c.py matches
+gui3d.py matches
+gui3e.py matches
+gui4.py matches
+gui5.py matches
+gui5b.py matches
+gui6.py matches
+gui6b.py matches
+gui6c.py matches
+gui6d.py matches
+gui7.py matches
+gui7b.py matches
+guii7c.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Gui\MovingPics to copytemp\PP3E\Gui\MovingPics
+Directory lists are identical
+Comparing contents
+movingpics.py matches
+movingpics_after.py matches
+movingpics_threads.py matches
+__init__.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Gui\PIL to copytemp\PP3E\Gui\PIL
+Directory lists are identical
+Comparing contents
+pyphoto1.py matches
+viewer-dir.py matches
+viewer-pil.py matches
+viewer-thumbs-fixed.py matches
+viewer-thumbs-grid.py matches
+viewer-thumbs-nosave.py matches
+viewer-tk.py matches
+viewer_thumbs.py matches
+viewer_thumbs.pyc matches
+viewer_thumbs_scrolled.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Gui\PIL\images to copytemp\PP3E\Gui\PIL\images
+Directory lists are identical
+Comparing contents
+Bogus.txt matches
+carmel.JPG matches
+chicago1.JPG matches
+chicago2.JPG matches
+chicago3.JPG matches
+dublin1.jpg matches
+dublin2.jpg matches
+dublin3.jpg matches
+florida1.JPG matches
+florida2.JPG matches
+florida3.JPG matches
+fortwaltonbeach-class-jul-04-small.jpg matches
+gillign2.gif matches
+lawnlake2-jan-03.jpg matches
+London_0464.JPG matches
+London_0470.JPG matches
+London_0482.JPG matches
+London_0485.JPG matches
+London_0503.JPG matches
+lp-france.gif matches
+LP2E_lrg.jpg matches
+lpython_sm_ad.gif matches
+monterey_0375.JPG matches
+monterey_0382.JPG matches
+newmarket-uk-1.jpg matches
+newmarket-uk-2.gif matches
+newmarket-uk-3.jpg matches
+nyc2.JPG matches
+nyc_0278.JPG matches
+nyc_0302.JPG matches
+oct02-4.jpg matches
+oqo3.JPG matches
+pp-japan1.gif matches
+PP1E.gif matches
+PP2E.gif matches
+PP3E_lrg.jpg matches
+ppr-germany-big.gif matches
+PPR3E.jpg matches
+ppython_sm_ad.gif matches
+puertorico-1.jpg matches
+PythonPoweredAnim.gif matches
+python_conf_ora.gif matches
+python_woodrat.gif matches
+rmnp-04-1.JPG matches
+rmnp-04.JPG matches
+santacruz.JPG matches
+santacruz2.JPG matches
+scrn010.jpg matches
+scrn011.jpg matches
+spain03.jpg matches
+spain07.jpg matches
+spain08.jpg matches
+spam.gif matches
+vegas-aug-04-small.jpg matches
+zaurus-760.jpg matches
+zaurus-c3100.gif matches
+zoo-jan-03.jpg matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Gui\PIL\images\thumbs to copytemp\PP3E\Gui\PIL\images\thumbs
+Directory lists are identical
+Comparing contents
+carmel.JPG matches
+chicago1.JPG matches
+chicago2.JPG matches
+chicago3.JPG matches
+dublin1.jpg matches
+dublin2.jpg matches
+dublin3.jpg matches
+florida1.JPG matches
+florida2.JPG matches
+florida3.JPG matches
+fortwaltonbeach-class-jul-04-small.jpg matches
+gillign2.gif matches
+lawnlake2-jan-03.jpg matches
+London_0464.JPG matches
+London_0470.JPG matches
+London_0482.JPG matches
+London_0485.JPG matches
+London_0503.JPG matches
+lp-france.gif matches
+LP2E_lrg.jpg matches
+lpython_sm_ad.gif matches
+monterey_0375.JPG matches
+monterey_0382.JPG matches
+newmarket-uk-1.jpg matches
+newmarket-uk-2.gif matches
+newmarket-uk-3.jpg matches
+nyc2.JPG matches
+nyc_0278.JPG matches
+nyc_0302.JPG matches
+oct02-4.jpg matches
+oqo3.JPG matches
+pp-japan1.gif matches
+PP1E.gif matches
+PP2E.gif matches
+PP3E_lrg.jpg matches
+ppr-germany-big.gif matches
+PPR3E.jpg matches
+ppython_sm_ad.gif matches
+puertorico-1.jpg matches
+PythonPoweredAnim.gif matches
+python_conf_ora.gif matches
+python_woodrat.gif matches
+rmnp-04-1.JPG matches
+rmnp-04.JPG matches
+santacruz.JPG matches
+santacruz2.JPG matches
+scrn010.jpg matches
+scrn011.jpg matches
+spain03.jpg matches
+spain07.jpg matches
+spain08.jpg matches
+spam.gif matches
+vegas-aug-04-small.jpg matches
+zaurus-760.jpg matches
+zaurus-c3100.gif matches
+zoo-jan-03.jpg matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Gui\ShellGui to copytemp\PP3E\Gui\ShellGui
+Directory lists are identical
+Comparing contents
+mytools.py matches
+packdlg-redirect.py matches
+packdlg.py matches
+shellgui.py matches
+unpkdlg.py matches
+__init__.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Gui\ShellGui\test to copytemp\PP3E\Gui\ShellGui\test
+Directory lists are identical
+Comparing contents
+eggs.txt matches
+ham.txt matches
+spam.txt matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Gui\SlideShow to copytemp\PP3E\Gui\SlideShow
+Directory lists are identical
+Comparing contents
+slideShow.py matches
+slideShow1.py matches
+slideShowPlus.py matches
+slideShow_frames.py matches
+slideShow_framesFast.py matches
+slideShow_toplevels.py matches
+__init__.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Gui\TextEditor to copytemp\PP3E\Gui\TextEditor
+Directory lists are identical
+Comparing contents
+simpleshell.py matches
+textConfig.py matches
+textConfig.pyc matches
+textEditor.py matches
+textEditor.pyc matches
+textEditorNoConsole.pyw matches
+__init__.py matches
+__init__.pyc matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Gui\Tools to copytemp\PP3E\Gui\Tools
+Directory lists are identical
+Comparing contents
+guimaker.py matches
+guimaker.pyc matches
+guimixin.py matches
+guimixin.pyc matches
+guiStreams.py matches
+mainloopdemo.py matches
+pipes-gui1.py matches
+pipes-gui2.py matches
+pipes-gui3.py matches
+pipes-nongui.py matches
+py.ico matches
+queuetest-gui-class.py matches
+queuetest-gui.py matches
+socket-gui.py matches
+socket-nongui.py matches
+spams.py matches
+threadtools.py matches
+threadtools.pyc matches
+windows-test.py matches
+windows.py matches
+windows.pyc matches
+__init__.py matches
+__init__.pyc matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Gui\Tools\BigGui to copytemp\PP3E\Gui\Tools\BigGui
+Directory lists are identical
+Comparing contents
+big_gui.py matches
+find_demo_dir.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Gui\Tools\Reload to copytemp\PP3E\Gui\Tools\Reload
+Directory lists are identical
+Comparing contents
+actions.py matches
+rad.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Gui\Tour to copytemp\PP3E\Gui\Tour
+Directory lists are identical
+Comparing contents
+alarm-hide.py matches
+alarm-withdraw.py matches
+alarm.py matches
+bind.py matches
+buttonbars.py matches
+buttonpics-func.py matches
+buttonpics.py matches
+canvas-bind.py matches
+canvas1.py matches
+canvasDraw.py matches
+canvasDraw_tags.py matches
+canvasDraw_tags_after.py matches
+canvasDraw_tags_thread.py matches
+config-button.py matches
+config-label.py matches
+demo-check-auto.py matches
+demo-check-manual.py matches
+demo-radio-auto.py matches
+demo-radio-clear.py matches
+demo-radio-manual.py matches
+demo-radio-multi.py matches
+demo-scale-simple.py matches
+demoAll-frm.py matches
+demoAll-prg.py matches
+demoAll-win.py matches
+demoCheck.py matches
+demoDlg-print.py matches
+demoDlg.py matches
+demoRadio.py matches
+demoScale.py matches
+dialogTable.py matches
+dlg-custom.py matches
+dlg-old.py matches
+dlg-recursive.py matches
+dlg1.pyw matches
+entry1.py matches
+entry2-modal.py matches
+entry2.py matches
+entry3-modal.py matches
+entry3.py matches
+grid1.py matches
+grid2-fails.py matches
+grid2-same.py matches
+grid2.py matches
+grid3.py matches
+grid4.py matches
+grid5-data1.txt matches
+grid5-data2.txt matches
+grid5.py matches
+grid5b.py matches
+grid5c.py matches
+imgButton.py matches
+imgCanvas.py matches
+imgCanvas2.py matches
+mbutton.py matches
+menuDemo.py matches
+menu_frm-multi.py matches
+menu_frm-multi2.py matches
+menu_frm.py matches
+menu_win-multi.py matches
+menu_win.py matches
+message.py matches
+optionmenu.py matches
+py-blue-trans-out.ico matches
+quitter.py matches
+scrolledcanvas.py matches
+scrolledlist.py matches
+scrolledtext.py matches
+setcolor.py matches
+simpleedit-2.py matches
+simpleedit.py matches
+temp.py matches
+texttags.py matches
+toplevel0.py matches
+toplevel1.py matches
+toplevel2.py matches
+__init__.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate to copytemp\PP3E\Integrate
+Directory lists are identical
+Comparing contents
+__init__.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Embed to copytemp\PP3E\Integrate\Embed
+Directory lists are identical
+Comparing contents
+coerce1.py matches
+coerce2.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Embed\ApiClients to copytemp\PP3E\Integrate\Embed\ApiClients
+Directory lists are identical
+Comparing contents
+codestring-api.c matches
+codestring-low.c matches
+makefile.clients matches
+makefile.objects matches
+module.py matches
+objects-api.c matches
+objects-err-low.c matches
+objects-low.c matches
+output.txt matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Embed\Basics to copytemp\PP3E\Integrate\Embed\Basics
+Directory lists are identical
+Comparing contents
+embed-bytecode.c matches
+embed-dict.c matches
+embed-object.c matches
+embed-simple.c matches
+embed-string.c matches
+makefile.1 matches
+makefile.basics matches
+usermod.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Embed\Basics\Old to copytemp\PP3E\Integrate\Embed\Basics\Old
+Directory lists are identical
+Comparing contents
+basic1.c matches
+basic2.c matches
+basic3.c matches
+basic4.c matches
+basic5.c matches
+output matches
+Readme.txt matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Embed\Basics\pp2e to copytemp\PP3E\Integrate\Embed\Basics\pp2e
+Directory lists are identical
+Comparing contents
+makefile.basics-linux matches
+output.txt matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Embed\HighLevelApi to copytemp\PP3E\Integrate\Embed\HighLevelApi
+Directory lists are identical
+Comparing contents
+copyright.txt matches
+makefile.api matches
+makefile.api.linux.old matches
+ppembed-attributes.c matches
+ppembed-callables.c matches
+ppembed-errors.c matches
+ppembed-globals.c matches
+ppembed-modules.c matches
+ppembed-strings.c matches
+ppembed.h matches
+Readme.txt matches
+varargs.txt matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Embed\Inventory to copytemp\PP3E\Integrate\Embed\Inventory
+Directory lists are identical
+Comparing contents
+inventory.py matches
+makefile.inv matches
+order-bytecode.c matches
+order-bytecode.py matches
+order-func.c matches
+order-func.py matches
+order-string.c matches
+order-string.py matches
+ordersfile.h matches
+ordersfile.py matches
+validate1.py matches
+validate2.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Embed\Inventory\Output to copytemp\PP3E\Integrate\Embed\Inventory\Output
+Directory lists are identical
+Comparing contents
+order-bytecode-py.out matches
+order-bytecode.out matches
+order-func-py.out matches
+order-func.out matches
+order-string-py.out matches
+order-string.out matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Embed\Inventory\WithDbase to copytemp\PP3E\Integrate\Embed\Inventory\WithDbase
+Directory lists are identical
+Comparing contents
+dbasetools.py matches
+inventory.py matches
+makefile.inv-dbase matches
+order-func.c matches
+order-func.py matches
+README.txt matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Embed\Inventory\WithDbase\Data to copytemp\PP3E\Integrate\Embed\Inventory\WithDbase\Data
+Directory lists are identical
+Comparing contents
+ordersfile.data matches
+ordersfile2.data matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Embed\Inventory\WithDbase\Dbase to copytemp\PP3E\Integrate\Embed\Inventory\WithDbase\Dbase
+Directory lists are identical
+Comparing contents
+dbbuyers matches
+dbinventory matches
+readme.txt matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Embed\Inventory\WithDbase\Output to copytemp\PP3E\Integrate\Embed\Inventory\WithDbase\Output
+Directory lists are identical
+Comparing contents
+order-func-c.out matches
+order-func-py.out matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Embed\TestApi to copytemp\PP3E\Integrate\Embed\TestApi
+Directory lists are identical
+Comparing contents
+makefile.testapi matches
+makefile.testapi.linux matches
+output matches
+testapi.c matches
+testapi.py matches
+testapi_c.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Embed\TestApi\WithPackages to copytemp\PP3E\Integrate\Embed\TestApi\WithPackages
+Directory lists are identical
+Comparing contents
+makefile.testapi-pkgs matches
+output matches
+output-misc matches
+testapi.c matches
+testapi_c.py matches
+testapi_c_from.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Embed\TestApi\WithPackages\pkgdir to copytemp\PP3E\Integrate\Embed\TestApi\WithPackages\pkgdir
+Directory lists are identical
+Comparing contents
+testapi.py matches
+__init__.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Extend to copytemp\PP3E\Integrate\Extend
+Directory lists are identical
+Comparing contents
+integer.txt matches
+mapping.txt matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Extend\Cenviron to copytemp\PP3E\Integrate\Extend\Cenviron
+Directory lists are identical
+Comparing contents
+cenviron.c matches
+envattr.py matches
+envmap.py matches
+envmod.py matches
+envsub.py matches
+envsub2.out matches
+envsub2.py matches
+makefile.cenviron matches
+output.environ matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Extend\Cenviron\Old to copytemp\PP3E\Integrate\Extend\Cenviron\Old
+Directory lists are identical
+Comparing contents
+embed.c matches
+makefile.embed1 matches
+makefile.embed2 matches
+makefile.old matches
+output.embed matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Extend\Cenviron\pp2e to copytemp\PP3E\Integrate\Extend\Cenviron\pp2e
+Directory lists are identical
+Comparing contents
+makefile.cenviron-linux matches
+Setup.MAX matches
+Setup.MIN matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Extend\Hello to copytemp\PP3E\Integrate\Extend\Hello
+Directory lists are identical
+Comparing contents
+disthello-alt.py matches
+disthello.py matches
+hello.c matches
+hellouse.py matches
+makefile.hello matches
+output.txt matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Extend\HelloLib to copytemp\PP3E\Integrate\Extend\HelloLib
+Directory lists are identical
+Comparing contents
+hellolib.c matches
+hellolib.h matches
+hellolib_wrapper.c matches
+makefile.hellolib-cygwin matches
+output matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Extend\HelloLib\pp2e to copytemp\PP3E\Integrate\Extend\HelloLib\pp2e
+Directory lists are identical
+Comparing contents
+makefile.hellolib-o matches
+makefile.hellolib-so matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Extend\Modulator to copytemp\PP3E\Integrate\Extend\Modulator
+Directory lists are identical
+Comparing contents
+csets.c matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Extend\Stacks to copytemp\PP3E\Integrate\Extend\Stacks
+Directory lists are identical
+Comparing contents
+exttime.py matches
+makefile.stack matches
+oopstack.py matches
+stackmod.c matches
+stacktyp.c matches
+substack.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Extend\Stacks\pp2e to copytemp\PP3E\Integrate\Extend\Stacks\pp2e
+Directory lists are identical
+Comparing contents
+makefile.stack-linux matches
+output-exttim matches
+output.stacks matches
+output.stub matches
+tmp-output.exttim matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Extend\Swig to copytemp\PP3E\Integrate\Extend\Swig
+Directory lists are identical
+Comparing contents
+hellolib.i matches
+hellolib_wrap.c matches
+hellowrap.py matches
+makefile.hellolib-swig matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Extend\Swig\Environ to copytemp\PP3E\Integrate\Extend\Swig\Environ
+Directory lists are identical
+Comparing contents
+environ.i matches
+environ.py matches
+environ_wrap.c matches
+makefile.environ-swig matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Extend\Swig\Environ\pp2e to copytemp\PP3E\Integrate\Extend\Swig\Environ\pp2e
+Directory lists are identical
+Comparing contents
+environ.i matches
+makefile.environ-swig-linux matches
+output matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Extend\Swig\pp2e to copytemp\PP3E\Integrate\Extend\Swig\pp2e
+Directory lists are identical
+Comparing contents
+makefile.hellolib-swig-linux matches
+myswig matches
+output.txt matches
+setup-swig.csh matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Extend\Swig\Shadow to copytemp\PP3E\Integrate\Extend\Swig\Shadow
+Directory lists are identical
+Comparing contents
+main.cxx matches
+main.py matches
+main_low.py matches
+main_subclass.py matches
+makefile.number-swig matches
+number.cxx matches
+number.h matches
+number.i matches
+number.py matches
+number_wrap.cxx matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Extend\Swig\Shadow\pp2e to copytemp\PP3E\Integrate\Extend\Swig\Shadow\pp2e
+Directory lists are identical
+Comparing contents
+makefile.number-swig-linux matches
+number.cxx matches
+output matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Extend\Swig\swig.org.docs to copytemp\PP3E\Integrate\Extend\Swig\swig.org.docs
+Directory lists are identical
+Comparing contents
+SWIG and Python.htm matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Extend\Swig\swig.org.docs\SWIG and Python_files to copytemp\PP3E\Integrate\Extend\Swig\swig.org.docs\SWIG and Python_files
+Directory lists are identical
+Comparing contents
+style.css matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Mixed to copytemp\PP3E\Integrate\Mixed
+Directory lists are identical
+Comparing contents
+mixed.txt matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Mixed\Exports to copytemp\PP3E\Integrate\Mixed\Exports
+Directory lists are identical
+Comparing contents
+cinterface.c matches
+cinterface.doc matches
+cinterface.h matches
+defaultlookup.c matches
+main-function.c matches
+main-table.c matches
+makefile.exports matches
+output matches
+output.prog1 matches
+Readme.txt matches
+runpy.c matches
+runpy.h matches
+script1.py matches
+script2.py matches
+script3.py matches
+scripttools.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Mixed\Exports\ClassAndMod to copytemp\PP3E\Integrate\Mixed\Exports\ClassAndMod
+Directory lists are identical
+Comparing contents
+cinterface.py matches
+cinterfacemod.c matches
+main-table.c matches
+makefile.exports-class matches
+output.prog1 matches
+setup-class.csh matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Integrate\Mixed\Regist to copytemp\PP3E\Integrate\Mixed\Regist
+Directory lists are identical
+Comparing contents
+cregister.c matches
+makefile.regist matches
+makefile.regist.linux matches
+output.txt matches
+register.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet to copytemp\PP3E\Internet
+Directory lists are identical
+Comparing contents
+__init__.py matches
+__init__.pyc matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Email to copytemp\PP3E\Internet\Email
+Directory lists are identical
+Comparing contents
+filtermail.py matches
+mailconfig.py matches
+popmail.py matches
+pymail.py matches
+pymail2.py matches
+README.txt matches
+smtpmail.py matches
+__init__.py matches
+__init__.pyc matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Email\mailtools to copytemp\PP3E\Internet\Email\mailtools
+Directory lists are identical
+Comparing contents
+mailFetcher.py matches
+mailFetcher.pyc matches
+mailParser.py matches
+mailParser.pyc matches
+mailSender.py matches
+mailSender.pyc matches
+mailTool.py matches
+mailTool.pyc matches
+selftest.py matches
+__init__.py matches
+__init__.pyc matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Email\PyMailGui to copytemp\PP3E\Internet\Email\PyMailGui
+Directory lists are identical
+Comparing contents
+ListWindows.py matches
+ListWindows.pyc matches
+mailconfig.py matches
+mailconfig.pyc matches
+messagecache.py matches
+messagecache.pyc matches
+popuputil.py matches
+popuputil.pyc matches
+py-blue-trans-out.ico matches
+PyMailGui2.py matches
+PyMailGui2.pyc matches
+PyMailGuiHelp.py matches
+PyMailGuiHelp.pyc matches
+sentmail.txt matches
+SharedNames.py matches
+SharedNames.pyc matches
+ViewWindows.py matches
+ViewWindows.py--ORIGINAL matches
+ViewWindows.pyc matches
+wraplines.py matches
+wraplines.pyc matches
+__init__.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Email\PyMailGui\etc to copytemp\PP3E\Internet\Email\PyMailGui\etc
+Directory lists are identical
+Comparing contents
+pp3e-opp.ico matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Email\PyMailGui\SavedMail to copytemp\PP3E\Internet\Email\PyMailGui\SavedMail
+Directory lists are identical
+Comparing contents
+savefew.txt matches
+savemany.txt matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Email\PyMailGui\SavedParts to copytemp\PP3E\Internet\Email\PyMailGui\SavedParts
+Directory lists are identical
+Comparing contents
+calendar.html matches
+FinalExam.doc matches
+lawnlake1-jan-03.jpg matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Email\PyMailGui\TempParts to copytemp\PP3E\Internet\Email\PyMailGui\TempParts
+Directory lists are identical
+Comparing contents
+calendar.html matches
+FinalExam.doc matches
+part-000.html matches
+part-000.txt matches
+part-001.html matches
+part-001.txt matches
+part-002.bin matches
+part-002.html matches
+part-002.mht matches
+part-003.html matches
+part-003.txt matches
+part-004.txt matches
+part-005.mht matches
+part-005.txt matches
+part-006.html matches
+part-007.mht matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Ftp to copytemp\PP3E\Internet\Ftp
+Directory lists are identical
+Comparing contents
+getfile.py matches
+getfilegui.py matches
+getone-modular.py matches
+getone-urllib.py matches
+getone.py matches
+putfile.py matches
+putfilegui.py matches
+PyFtpGui.pyw matches
+sousa.py matches
+__init__.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Ftp\defunct to copytemp\PP3E\Internet\Ftp\defunct
+Directory lists are identical
+Comparing contents
+buildpython.py matches
+getpython-modular.py matches
+getpython-urllib.py matches
+getpython.py matches
+README.txt matches
+sousa.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Ftp\mirror to copytemp\PP3E\Internet\Ftp\mirror
+Directory lists are identical
+Comparing contents
+cleanall.py matches
+downloadflat.py matches
+downloadflat_modular.py matches
+ftptools.py matches
+uploadall.py matches
+uploadflat.py matches
+uploadflat_modular.py matches
+__init__.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Other to copytemp\PP3E\Internet\Other
+Directory lists are identical
+Comparing contents
+http-getfile-urllib1.py matches
+http-getfile-urllib2.py matches
+http-getfile.py matches
+readnews.py matches
+restricted.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Other\Grail to copytemp\PP3E\Internet\Other\Grail
+Directory lists are identical
+Comparing contents
+grail.html matches
+Question.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Other\HTMLgen to copytemp\PP3E\Internet\Other\HTMLgen
+Directory lists are identical
+Comparing contents
+htmlgen101-b.html matches
+htmlgen101-b.py matches
+htmlgen101.html matches
+htmlgen101.py matches
+PythonPoweredSmall.gif matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Other\Jython to copytemp\PP3E\Internet\Other\Jython
+Directory lists are identical
+Comparing contents
+jyapplet.py matches
+jycalc.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Other\PSP to copytemp\PP3E\Internet\Other\PSP
+Directory lists are identical
+Comparing contents
+hello.psp matches
+webware.psp matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Other\Win to copytemp\PP3E\Internet\Other\Win
+Directory lists are identical
+Comparing contents
+activescript-js.html matches
+activescript-py.html matches
+activescript-vb.html matches
+asp-py.asp matches
+comclient.py matches
+comserver-test-vbs.html matches
+comserver-test.bas matches
+comserver-test.py matches
+comserver.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Other\XML to copytemp\PP3E\Internet\Other\XML
+Directory lists are identical
+Comparing contents
+bookhandler.py matches
+bookhandler.txt matches
+books.xml matches
+dombook.py matches
+README.txt matches
+xmlrpc.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Other\Zope to copytemp\PP3E\Internet\Other\Zope
+Directory lists are identical
+Comparing contents
+calculateSalary.txt matches
+fetchdtml.txt matches
+fetchscript.txt matches
+messages.py matches
+README.txt matches
+salaryInput.txt matches
+salaryReply.txt matches
+webtools.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Sockets to copytemp\PP3E\Internet\Sockets
+Directory lists are identical
+Comparing contents
+class-server.py matches
+echo-client.py matches
+echo-server.py matches
+fork-server-signal.py matches
+fork-server.py matches
+form.py matches
+getfile.py matches
+getfilegui-1.py matches
+getfilegui-2.py matches
+getfilegui.py matches
+select-server.py matches
+signal-demo.py matches
+testecho.py matches
+thread-server.py matches
+__init__.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Web to copytemp\PP3E\Internet\Web
+Directory lists are identical
+Comparing contents
+badlink.html matches
+getfile.html matches
+languages.html matches
+ppsmall.gif matches
+putfile.html matches
+PyInternetDemos.html matches
+PythonPoweredSmall.gif matches
+python_snake_ora.gif matches
+tutor0.html matches
+tutor3-minimal.html matches
+tutor3.html matches
+tutor4.html matches
+tutor5a.html matches
+tutor5b.html matches
+tutor5c.html matches
+tutor5d.html matches
+webserver.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Web\cgi-bin to copytemp\PP3E\Internet\Web\cgi-bin
+Directory lists are identical
+Comparing contents
+badlink.py matches
+cookies.py matches
+formMockup.py matches
+getfile.py matches
+languages-src.py matches
+languages.py matches
+languages2.py matches
+languages2common.py matches
+languages2reply.py matches
+putfile.py matches
+tutor0.py matches
+tutor1.py matches
+tutor2.py matches
+tutor3.py matches
+tutor4.py matches
+tutor5.py matches
+tutor5_mockup.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Web\dev to copytemp\PP3E\Internet\Web\dev
+Directory lists are identical
+Comparing contents
+README.txt matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Web\dev\PyMailCGI_2.1 to copytemp\PP3E\Internet\Web\dev\PyMailCGI_2.1
+Directory lists are identical
+Comparing contents
+ppsmall.gif matches
+pymailcgi.html matches
+PythonPoweredSmall.gif matches
+temp.txt matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Web\dev\PyMailCGI_2.1\cgi-bin to copytemp\PP3E\Internet\Web\dev\PyMailCGI_2.1\cgi-bin
+Directory lists are identical
+Comparing contents
+commonhtml.py matches
+externs.py matches
+loadmail.py matches
+mailconfig.py matches
+onEditPageSend.py matches
+onRootSendLink.py matches
+onRootViewLink.py matches
+onViewListLink.py matches
+onViewPageAction.py matches
+onViewPswdSubmit.py matches
+secret.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Web\PyErrata to copytemp\PP3E\Internet\Web\PyErrata
+Directory lists are identical
+Comparing contents
+browse.py matches
+browseComments.cgi matches
+browseComments.html matches
+browseErrata.cgi matches
+browseErrata.html matches
+dbcommon.py matches
+dbfiles.py matches
+dbshelve.py matches
+dbswitch.py matches
+index.cgi matches
+ppsmall.gif matches
+pyerrata.html matches
+PythonPoweredSmall.gif matches
+Readme.txt matches
+resourcePatchfiles.html matches
+resourcePythonchanges.html matches
+resourceSupplements.html matches
+submit.py matches
+submitComment.cgi matches
+submitComment.html matches
+submitErrata.cgi matches
+submitErrata.html matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Web\PyErrata\AdminTools to copytemp\PP3E\Internet\Web\PyErrata\AdminTools
+Directory lists are identical
+Comparing contents
+backupFiles.py matches
+backupShelve.py matches
+DbaseFiles.tar.gz matches
+dbaseindexed.out.txt matches
+dbaseindexed.py matches
+dumpfile.out.txt matches
+dumpFiles.py matches
+dumpshelve.out.txt matches
+dumpShelve.py matches
+Readme.txt matches
+verifycommon.py matches
+verifyfiles.out.txt matches
+verifyFiles.py matches
+verifyShelve.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Web\PyErrata\AdminTools\DbaseFilesIndexed to copytemp\PP3E\Internet\Web\PyErrata\AdminTools\DbaseFilesIndexed
+Directory lists are identical
+Comparing contents
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Web\PyErrata\AdminTools\DbaseFilesIndexed\commentDB to copytemp\PP3E\Internet\Web\PyErrata\AdminTools\DbaseFilesIndexed\commentDB
+Directory lists are identical
+Comparing contents
+indexes.lck matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Web\PyErrata\AdminTools\DbaseFilesIndexed\errataDB to copytemp\PP3E\Internet\Web\PyErrata\AdminTools\DbaseFilesIndexed\errataDB
+Directory lists are identical
+Comparing contents
+indexes.lck matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Web\PyErrata\AdminTools\temp to copytemp\PP3E\Internet\Web\PyErrata\AdminTools\temp
+Directory lists are identical
+Comparing contents
+browse-alt1.py matches
+browse.doc.txt matches
+browse.temp matches
+dbcommon.txt matches
+dbshelve.doc.txt matches
+tmp-dbshelve matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Web\PyErrata\Chapter to copytemp\PP3E\Internet\Web\PyErrata\Chapter
+Directory lists are identical
+Comparing contents
+ch14.pdf matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Web\PyErrata\DbaseFiles to copytemp\PP3E\Internet\Web\PyErrata\DbaseFiles
+Directory lists are identical
+Comparing contents
+README matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Web\PyErrata\DbaseFiles\commentDB to copytemp\PP3E\Internet\Web\PyErrata\DbaseFiles\commentDB
+Directory lists are identical
+Comparing contents
+937908410.203-5352.data matches
+937908442.86-5354.data matches
+937908463.835-5358.data matches
+937908622.283-5372.data matches
+937908668.109-5376.data matches
+937908811.012-5386.data matches
+937946599.068-11309.data matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Web\PyErrata\DbaseFiles\errataDB to copytemp\PP3E\Internet\Web\PyErrata\DbaseFiles\errataDB
+Directory lists are identical
+Comparing contents
+937907956.159-5157.data matches
+937909033.248-5413.data matches
+937909103.065-5414.data matches
+937909222.474-5439.data matches
+937910827.389-5600.data matches
+937946732.881-11363.data matches
+938242439.425-19541.data matches
+939419481.95-10774.data matches
+939419503.524-10781.data matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Web\PyErrata\DbaseShelve to copytemp\PP3E\Internet\Web\PyErrata\DbaseShelve
+Directory lists are identical
+Comparing contents
+commentDB matches
+commentDB.lck matches
+commentDB.log matches
+errataDB matches
+errataDB.lck matches
+errataDB.log matches
+README matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Web\PyErrata\Mutex to copytemp\PP3E\Internet\Web\PyErrata\Mutex
+Directory lists are identical
+Comparing contents
+launch-mutex-simple.py matches
+launch-mutex.py matches
+launch-test.out matches
+launch-test.py matches
+mutex-class.out.txt matches
+mutex-fcntl.out.txt matches
+mutexcntl.py matches
+Readme.txt matches
+Shared.txt matches
+test.lck matches
+test.log matches
+test.log.save matches
+testread-mutex.py matches
+testread.py matches
+testwrite-mutex.py matches
+testwrite.py matches
+__init__.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Web\PyMailCgi to copytemp\PP3E\Internet\Web\PyMailCgi
+Directory lists are identical
+Comparing contents
+ppsmall.gif matches
+pymailcgi.html matches
+PythonPoweredSmall.gif matches
+README-imports.txt matches
+sendurl.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Web\PyMailCgi\cgi-bin to copytemp\PP3E\Internet\Web\PyMailCgi\cgi-bin
+Directory lists are identical
+Comparing contents
+commonhtml.py matches
+externs.py matches
+loadmail.py matches
+mailconfig.py matches
+onEditPageSend.py matches
+onRootSendLink.py matches
+onRootViewLink.py matches
+onViewListLink.py matches
+onViewPageAction.py matches
+onViewPswdSubmit.py matches
+secret.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Web\PyMailCgi\partsdownload to copytemp\PP3E\Internet\Web\PyMailCgi\partsdownload
+Directory lists are identical
+Comparing contents
+part-000.html matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Web\PyMailCgi\partsupload to copytemp\PP3E\Internet\Web\PyMailCgi\partsupload
+Directory lists are identical
+Comparing contents
+calendar.html matches
+FinalExam.doc matches
+getfile.py matches
+lawnlake1-jan-03.jpg matches
+zaurus-760.jpg matches
+zaurus-c3100.gif matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Internet\Web\uploads to copytemp\PP3E\Internet\Web\uploads
+Directory lists are identical
+Comparing contents
+about-pp3e.html matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Lang to copytemp\PP3E\Lang
+Directory lists are identical
+Comparing contents
+cheader.py matches
+pygrep1.py matches
+re-basics.py matches
+re-groups.py matches
+re-subst.py matches
+rules.py matches
+summer-alt.py matches
+summer.py matches
+table1.txt matches
+table2.txt matches
+test.h matches
+__init__.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Lang\Calculator to copytemp\PP3E\Lang\Calculator
+Directory lists are identical
+Comparing contents
+calc0.py matches
+calc0emb.py matches
+calc0ext.py matches
+calculator.py matches
+calculator_plusplus.py matches
+calculator_plus_emb.py matches
+calculator_plus_ext.py matches
+calculator_test.py matches
+__init__.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Lang\Parser to copytemp\PP3E\Lang\Parser
+Directory lists are identical
+Comparing contents
+grammar.txt matches
+parser1.py matches
+parser2.py matches
+scanner.py matches
+testparser.py matches
+__init__.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Preview to copytemp\PP3E\Preview
+Directory lists are identical
+Comparing contents
+attachgui.py matches
+cgi101.html matches
+class-shelve matches
+customizegui.py matches
+dump_db_class.py matches
+dump_db_file.py matches
+dump_db_pickle.py matches
+dump_db_pickle_recs.py matches
+dump_db_shelve.py matches
+initdata.py matches
+make_db_classes.py matches
+make_db_files.py matches
+make_db_pickle.py matches
+make_db_pickle_recs.py matches
+make_db_shelve.py matches
+manager.py matches
+people-alternative.py matches
+people-file matches
+peoplecgi.html matches
+peoplegui.py matches
+peopleinteract_query.py matches
+peopleinteract_update.py matches
+person.py matches
+person_start.py matches
+py-blue-trans-out.ico matches
+README-change.txt matches
+tkinter001.py matches
+tkinter101.py matches
+tkinter102.py matches
+tkinter103.py matches
+update_db_class.py matches
+update_db_file.py matches
+update_db_pickle.py matches
+update_db_pickle_recs.py matches
+update_db_shelve.py matches
+webserver.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\Preview\cgi-bin to copytemp\PP3E\Preview\cgi-bin
+Directory lists are identical
+Comparing contents
+cgi101.py matches
+peoplecgi.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\PyTools to copytemp\PP3E\PyTools
+Directory lists are identical
+Comparing contents
+cleanoutput.py matches
+cleanpyc-py.py matches
+cleanpyc.py matches
+copyinits.py matches
+distro-sizes.txt matches
+dumpfile.py matches
+find.py matches
+fixeoln_all.py matches
+fixeoln_dir.py matches
+fixeoln_one.py matches
+fixnames_all.py matches
+fixnames_all2.py matches
+fixreadonly-all.py matches
+search_all.py matches
+visitor.py matches
+visitor_collect.py matches
+visitor_collect_quiet1.py matches
+visitor_collect_quiet2.py matches
+visitor_edit.py matches
+visitor_fixeoln.py matches
+visitor_fixnames.py matches
+visitor_poundbang.py matches
+visitor_replace.py matches
+wcall.py matches
+wcall_find.py matches
+wcall_find_patt.py matches
+wcall_visitor.py matches
+__init__.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\System to copytemp\PP3E\System
+Directory lists are identical
+Comparing contents
+helloshell.py matches
+more.py matches
+moreplus.py matches
+myscript.txt matches
+testargv.py matches
+testargv2.py matches
+whereami.py matches
+__init__.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\System\App to copytemp\PP3E\System\App
+Directory lists are identical
+Comparing contents
+apptools.py matches
+__init__.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\System\App\Bases to copytemp\PP3E\System\App\Bases
+Directory lists are identical
+Comparing contents
+app.py matches
+__init__.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\System\App\Clients to copytemp\PP3E\System\App\Clients
+Directory lists are identical
+Comparing contents
+eggs.txt matches
+ham.txt matches
+mtool.py matches
+mtool3.py matches
+mtoolapp.py matches
+myapp.py matches
+myapp2.py matches
+myapp4.py matches
+packapp.py matches
+spam.txt matches
+textpack.py matches
+textunpack.py matches
+tools.py matches
+tools2.py matches
+unpackapp.py matches
+unpackapp2.py matches
+unpackapp3.py matches
+__init__.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\System\App\Clients\test to copytemp\PP3E\System\App\Clients\test
+Directory lists are identical
+Comparing contents
+eggs.txt matches
+ham.txt matches
+out1 matches
+packed.all matches
+packedapp.all matches
+spam.txt matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\System\App\Clients\test\unpack to copytemp\PP3E\System\App\Clients\test\unpack
+Directory lists are identical
+Comparing contents
+eggs.txt matches
+ham.txt matches
+spam.txt matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\System\App\Clients\test\unpackapp to copytemp\PP3E\System\App\Clients\test\unpackapp
+Directory lists are identical
+Comparing contents
+eggs.txt matches
+ham.txt matches
+spam.txt matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\System\App\Kinds to copytemp\PP3E\System\App\Kinds
+Directory lists are identical
+Comparing contents
+fakefile.py matches
+interact.py matches
+internal.py matches
+redirect.py matches
+__init__.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\System\App\Tests to copytemp\PP3E\System\App\Tests
+Directory lists are identical
+Comparing contents
+apptest.out matches
+apptest.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\System\Environment to copytemp\PP3E\System\Environment
+Directory lists are identical
+Comparing contents
+echoenv.py matches
+setenv.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\System\Exits to copytemp\PP3E\System\Exits
+Directory lists are identical
+Comparing contents
+testexit_fork.py matches
+testexit_os.py matches
+testexit_sys.py matches
+testexit_thread.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\System\Filetools to copytemp\PP3E\System\Filetools
+Directory lists are identical
+Comparing contents
+commands.py matches
+cpall.py matches
+cpall_visitor.py matches
+diffall.py matches
+dirdiff.py matches
+filters.py matches
+hillbillies.txt matches
+join.py matches
+lister_recur.py matches
+lister_walk.py matches
+regtest.py matches
+rmall.py matches
+rmall2.py matches
+scanfile.py matches
+scanner-alts.txt matches
+site-forward.py matches
+split.py matches
+template.html matches
+walkers.txt matches
+__init__.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\System\Media to copytemp\PP3E\System\Media
+Directory lists are identical
+Comparing contents
+playfile.py matches
+__init__.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\System\Processes to copytemp\PP3E\System\Processes
+Directory lists are identical
+Comparing contents
+child.py matches
+dosstart.py matches
+fork-count.py matches
+fork-exec.py matches
+fork1.py matches
+pipe1.py matches
+pipe2.py matches
+pipefifo.py matches
+pipes-testchild.py matches
+pipes.py matches
+signal1.py matches
+signal2.py matches
+spawnv.py matches
+__init__.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\System\Streams to copytemp\PP3E\System\Streams
+Directory lists are identical
+Comparing contents
+adder.py matches
+adder2.py matches
+adder24.py matches
+adder3.py matches
+hello-in.py matches
+hello-out.py matches
+reader.py matches
+redirect.py matches
+sorter.py matches
+sorter24.py matches
+teststreams.py matches
+writer.py matches
+writer2.py matches
+__init__.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\System\Threads to copytemp\PP3E\System\Threads
+Directory lists are identical
+Comparing contents
+badthreads-fix.py matches
+badthreads.py matches
+queuetest.py matches
+thread-class-alts.txt matches
+thread-classes.py matches
+thread-count-mutex.py matches
+thread-count-wait1.py matches
+thread-count-wait2.py matches
+thread-count.py matches
+thread1.py matches
+--------------------
+Comparing C:\temp\PP3E\Examples\PP3E\TempParts to copytemp\PP3E\TempParts
+Directory lists are identical
+Comparing contents
+109_0237.JPG matches
+lawnlake1-jan-03.jpg matches
+part-001.txt matches
+part-002.html matches
+========================================
+No diffs found.

@@ -1,0 +1,9 @@
+Make sure non-images are simply skipped.
+
+Note: 
+These images were reduced in size to keep the examples
+distribution small.  Fill this directory with images of
+your own to see how PyPhoto handles larger pictures.
+
+Image atachments in saved mail files were similarly
+stripped; send some emails on your own to experiment.

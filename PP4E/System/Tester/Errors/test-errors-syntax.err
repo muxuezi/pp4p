@@ -1,0 +1,4 @@
+  File ".\Scripts\test-errors-syntax.py", line 2
+    print 'starting'
+                   ^
+SyntaxError: invalid syntax

@@ -1,0 +1,6 @@
+::::::::::::::::::::textpak=>C:/Users/mark/Stuff/Books/4E/PP4E/dev/Examples/PP4E/Gui/ShellGui/temp/eggs.txt
+eggs
+::::::::::::::::::::textpak=>C:/Users/mark/Stuff/Books/4E/PP4E/dev/Examples/PP4E/Gui/ShellGui/temp/spam.txt
+spam
+Spam
+SPAM

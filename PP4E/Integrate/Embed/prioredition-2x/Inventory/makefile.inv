@@ -1,0 +1,31 @@
+################################################################
+# Cygwin version: Build inventory order simulation executables.
+# Link in my main .o, single Python lib, any external
+# libs bound into Python, plus the high-level api lib.
+# Libs should match Modules/Makefile.  Don't forget to
+# source toplevel setup-pp-embed.csh if you see errors.
+################################################################
+
+PYLIB = -L/usr/bin -lpython2.4
+PYINC = -I/usr/include/python2.4
+
+APIDIR  = ../HighLevelApi
+APILIB  = $(APIDIR)/libppembed.dll
+APILIBS = -L$(APIDIR) -lppembed
+
+PROGS = order-string.exe order-func.exe order-bytecode.exe
+
+all:	$(PROGS)
+
+order%.exe: order%.o $(APILIB)
+	gcc order$*.o $(APILIBS) $(PYLIB) -g -o $@
+
+order%.o: order%.c ordersfile.h $(APIDIR)/ppembed.h
+	gcc order$*.c -g -c $(PYINC) -I$(APIDIR)
+
+$(APILIB):
+	cd $(APIDIR); make -f makefile.api
+
+clean:
+	rm -f $(PROGS) *.o *.pyc core
+

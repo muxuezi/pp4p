@@ -1,0 +1,17 @@
+######################################################################
+# Cygwin makefile to build object call examples:
+# to use, run command "make -f makefile.clients"
+######################################################################
+
+PYLIB = /usr/local/bin
+PYINC = /usr/local/include/python3.1
+
+OBJECTS = objects.exe objects-err.exe
+
+all: $(OBJECTS)
+
+object%.exe: object%.o
+	gcc object$*.o -L$(PYLIB) -lpython3.1 -g -o $@
+
+object%.o: object%.c
+	gcc object$*.c -c -g -I$(PYINC)

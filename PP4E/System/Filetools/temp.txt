@@ -1,0 +1,4 @@
+C:\Users\mark\Stuff\start\Dec09-toshiba-to-vaioP\Books\3E\LP3E\py3000
+C:\Users\mark\Stuff\start\Dec09-toshiba-to-vaioP\Books\3E\LP3E\py3000\FutureProofPython - PythonInfo Wiki_files
+C:\Users\mark\Stuff\start\Dec09-toshiba-to-vaioP\Books\3E\LP3E\py3000\Oakwinter_com  Code » Porting setuptools to py3k_files
+C:\Users\mark\Stuff\start\Dec09-toshiba-to-vaioP\Books\3E\LP3E\py3000\What’s New in Python 3_0 — Python Documentation_files

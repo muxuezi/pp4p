@@ -1,0 +1,8 @@
+function call: name:__main__, pid:8440
+spawned child: name:__main__, pid:9324
+run process 0: name:__main__, pid:6552
+run process 1: name:__main__, pid:6892
+run process 2: name:__main__, pid:3588
+run process 3: name:__main__, pid:9160
+Main process exit.
+run process 4: name:__main__, pid:3004

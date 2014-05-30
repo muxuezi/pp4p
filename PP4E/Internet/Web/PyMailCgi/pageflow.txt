@@ -1,0 +1,14 @@
+file or script                           creates
+--------------                           -------
+
+[pymailcgi.html]                         Root window
+ => [onRootViewLink.py]                  Pop password window
+     => [onViewPswdSubmit.py]            List window (loads all pop mail)
+         => [onViewListLink.py]          View Window + pick=del|reply|fwd (fetch)
+             => [onViewPageAction.py]    Edit window, or delete+confirm (del)
+                 => [onEditPageSend.py]  Confirmation (sends smtp mail)
+                     => back to root
+
+ => [onRootSendLink.py]                  Edit Window
+     => [onEditPageSend.py]              Confirmation (sends smtp mail)
+         => back to root

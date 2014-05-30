@@ -1,0 +1,74 @@
+<HTML>
+<TITLE>PyMailCGI Main Page</TITLE>
+<BODY>
+<H1 align=center>PyMailCGI</H1>
+<H2 align=center>A POP/SMTP Web Email Interface</H2>
+<P align=center><I>Version 2.1 (Alpha), February 2006</I></P>
+     
+<table>
+     
+<tr><td><hr>
+<h2>Actions</h2>
+<P>
+<UL>
+<LI><a href="cgi-bin/onRootViewLink.py">View, Reply, Forward, Delete POP mail</a>
+<LI><a href="cgi-bin/onRootSendLink.py">Send a new email message by SMTP</a>
+</UL></P>
+
+<tr><td><hr>
+<h2>Overview</h2>
+<P>
+<A href="http://rmi.net/~lutz/about-pp.html">
+<IMG src="ppsmall.gif" align=left 
+alt="[Book Cover]" border=1 hspace=10></A>
+This site implements a simple web-browser interface to POP/SMTP email
+accounts.  Anyone can send email with this interface, but for security
+reasons, you cannot view email unless you install the scripts with your
+own email account information, in your own server account directory.
+PyMailCgi is implemented as a number of Python-coded CGI scripts that run on
+a server machine (not your local computer), and generate HTML to interact 
+with the client/browser.  See the book <I>Programming Python, 3rd Edition</I>
+for more details.</P>
+     
+<tr><td><hr>
+<h2>Notes</h2>
+<P>Caveats: PyMailCgi 1.0 was initially written during a 2-hour layover at 
+Chicago's O'Hare airport.  This release is not nearly as fast or complete 
+as PyMailGUI (e.g., each click requires an Internet transaction, there
+is no save operation or multithreading, and there is no caching of email 
+headers or already-viewed messages).  On the other hand, PyMailCgi runs on 
+any web broswer, whether you have Python (and Tk) installed on your machine
+or not.  
+     
+<P>Also note that if you use these scripts to read your own email, PyMailCgi
+does not guarantee security for your account password. See the notes in the 
+View action page as well as the book for more information on security policies. 
+
+<p><I><U>New in Version 2</U></I>: PyMailCGI now supports viewing and sending email
+attachments for a single user, and avoids some of the prior version's exhaustive mail 
+downloads. It only fetches message headers for the list page, and only downloads the 
+full text of the single message selected for viewing. 
+
+<p><I><U>New in Version 2.1</U></I>: Deletions perform server inbox synchronization
+tests to ensure that the mail displayed is the only one deleted. In rare cases,
+the inbox may change in ways that invalidate message numbers after mail is fetched.
+2.1 makes deletions safe, but index lists may still become out of synch.
+
+<p>Also see:
+     
+<UL>
+<li>The <I>PyMailGUI</I> program in the Internet directory, which
+        implements a more complete client-side Python+Tk email GUI
+<li>The <I>pymail.py</I> program in the Email directory, which 
+        provides a simple console command-line email interface
+<li>The Python imaplib module which supports the IMAP email protocol
+        instead of POP
+</UL></P>
+</table><hr>
+     
+<A href="http://www.python.org">
+<IMG SRC="PythonPoweredSmall.gif" ALIGN=left   
+ALT="[Python Logo]" border=0 hspace=15></A>
+<A href="http://www.rmi.net/~lutz/about-pp.html">[Book]</a> 
+<A href="http://www.oreilly.com">[O'Reilly]</a>
+</BODY></HTML>

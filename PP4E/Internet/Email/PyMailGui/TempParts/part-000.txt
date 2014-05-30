@@ -1,0 +1,29 @@
+Hi. This is the qmail-send program at p3plwbeout06-05.prod.phx3.secureserver.net.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<pp4e@learning-python.om>:
+Sorry, I couldn't find any host named learning-python.om. (#5.1.2)
+
+--- Below this line is a copy of the message.
+
+Return-Path: <pp4e@learning-python.com>
+Received: (qmail 16696 invoked from network); 31 May 2010 22:48:10 -0000
+Received: from unknown (HELO localhost) (97.74.135.115)
+  by p3plwbeout06-05.prod.phx3.secureserver.net with SMTP; 31 May 2010 22:48:10 -0000
+Received: (qmail 16952 invoked by uid 99); 31 May 2010 22:48:10 -0000
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+X-Originating-IP: 72.236.109.185
+User-Agent: Web-Based Email 5.2.17
+Message-Id: <20100531154810.fb905c2026ed36b6bb755ada02e74d8f.2b19f18da1.wbe@email06.secureserver.net>
+From: pp4e@learning-python.com
+To: lutz@learning-python.com
+Cc: lutz@rmi.net
+Subject: pp4e
+Date: Mon, 31 May 2010 15:48:10 -0700
+Mime-Version: 1.0
+
+<html><body><span style=3D"font-family:Verdana; color:#000000; font-size:10=
+pt;"><div>xx</div></span></body></html>
+

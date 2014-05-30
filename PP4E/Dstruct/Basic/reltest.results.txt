@@ -1,0 +1,70 @@
+
+table =>
+[job]='engineer' [name]='marv' 
+[job]='engineer' [name]='andy' 
+[job]='manager' [name]='sam' 
+[job]='prez' [name]='mary' 
+[job]='architect' [name]='mira' 
+[job]='engineer' [name]='john' 
+[job]='administrator' [name]='eddy' 
+
+table =>
+[job]='engineer' [name]='marv' 
+[job]='engineer' [name]='andy' 
+[job]='engineer' [name]='john' 
+
+table =>
+[pay]=(25000, 60000) [job]='engineer' [name]='marv' 
+[pay]=(25000, 60000) [job]='engineer' [name]='andy' 
+[pay]=(50000, 'XXX') [job]='manager' [name]='sam' 
+[pay]='see figure 1' [job]='prez' [name]='mary' 
+[pay]=None [job]='architect' [name]='mira' 
+[pay]=(25000, 60000) [job]='engineer' [name]='john' 
+
+table =>
+[job]='engineer' 
+[job]='manager' 
+[job]='prez' 
+[job]='architect' 
+[job]='administrator' 
+
+table =>
+[name]='marv' 
+[name]='andy' 
+[name]='john' 
+
+table =>
+[job]='manager' [name]='sam' 
+[job]='prez' [name]='mary' 
+
+table =>
+[job]='manager' [name]='sam' 
+[job]='manager' [name]='steve' 
+
+table =>
+[job]='engineer' [name]='marv' 
+[job]='prez' [name]='mary' 
+[job]='architect' [name]='mira' 
+
+table =>
+[job]='manager' [name]='sam' 
+[job]='prez' [name]='mary' 
+
+table =>
+[job]='manager' [name]='sam' 
+[job]='prez' [name]='mary' 
+[job]='administrator' [name]='eddy' 
+
+table =>
+[job]='administrator' 
+
+table =>
+[pay]=(25000, 60000) [name]='marv' 
+[pay]=(25000, 60000) [name]='andy' 
+[pay]=(50000, 'XXX') [name]='sam' 
+[pay]='see figure 1' [name]='mary' 
+[pay]=None [name]='mira' 
+[pay]=(25000, 60000) [name]='john' 
+
+table =>
+[pay]=(50000, 'XXX') [name]='sam' 

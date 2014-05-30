@@ -1,0 +1,5 @@
+Here are the PyMailGUI sourcecode line counts (SLOC) Excel spreadsheets,
+attached from the "media" subdirectory...
+
+Thanks,
+--Mark Lutz  (http://learning-python.com, http://rmi.net/~lutz)

@@ -1,0 +1,40 @@
+######################################################################
+# cygwin makefile to build all examples in this directory
+# including clients of the ppembed embedding api library
+######################################################################
+
+PYLIB = -L/usr/bin -lpython2.4
+PYINC = -I/usr/include/python2.4
+
+APIDIR = ../HighLevelApi
+APILIB = $(APIDIR)/libppembed.dll
+
+CFLAGS = -c -g $(PYINC)
+
+# targets
+EXECS = objects-low.exe objects-err-low.exe objects-api.exe \
+        codestring-low.exe codestring-api.exe 
+
+all: $(EXECS)
+
+# match low-level built-in call clients
+%-low.exe: %-low.o
+	gcc $*-low.o $(PYLIB) -g -o $@
+
+%-low.o: %-low.c
+	gcc $*-low.c $(CFLAGS)
+
+# match high-level ppembed api clients
+%-api.exe: %-api.o $(APILIB)
+	gcc $*-api.o $(APILIB) $(PYLIB) -g -o $@
+
+%-api.o: %-api.c $(APIDIR)/ppembed.h
+	gcc $*-api.c $(CFLAGS) -I$(APIDIR)
+
+# extended api lib
+$(APILIB):
+	cd $(APIDIR); make -f makefile.api
+
+clean: 
+	rm -f *.o *.pyc $(EXECS) core
+

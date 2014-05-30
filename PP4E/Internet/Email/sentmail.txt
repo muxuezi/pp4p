@@ -1,0 +1,21 @@
+================================================================================PY
+MIME-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+From: The Book <pp4e@learning-python.com>
+To: pp 4e <pp4e@learning-python.com>, "lu,tz" <lutz@learning-python.com>, lutz@rmi.net
+Subject: test addresses three
+Date: Sun, 30 May 2010 18:55:39 -0000
+
+s p 
+a mm
+================================================================================PY
+MIME-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+From: The Book <pp4e@learning-python.com>
+To: pp 4e <pp4e@learning-python.com>, "lu,tz" <lutz@learning-python.com>, lutz@rmi.net
+Subject: test addresses five
+Date: Sun, 30 May 2010 19:00:24 -0000
+
+n

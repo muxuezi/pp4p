@@ -1,0 +1,3 @@
+
+Thanks,
+--Mark Lutz  (http://learning-python.com, http://rmi.net/~lutz)

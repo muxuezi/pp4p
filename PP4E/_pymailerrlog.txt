@@ -1,0 +1,172 @@
+--------------------------------------------------------------------------------  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Gui\Tools\threadtools.py", line 85, in threaded
+    action(progress=progress, *args)
+  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Internet\Email\PyMailGui\messagecache.py", line 81, in loadHeaders
+    reply = self.downloadAllHeaders(progress, loadfrom)
+  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Internet\Email\mailtools\mailFetcher.py", line 126, in downloadAllHeaders
+    server = self.connect()                # mbox now locked until quit
+  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Internet\Email\mailtools\mailFetcher.py", line 36, in connect
+    server.pass_(self.popPassword)              # pass is a reserved word
+  File "C:\Python31\lib\poplib.py", line 192, in pass_
+    return self._shortcmd('PASS %s' % pswd)
+  File "C:\Python31\lib\poplib.py", line 155, in _shortcmd
+    return self._getresp()
+  File "C:\Python31\lib\poplib.py", line 131, in _getresp
+    raise error_proto(resp)
+--------------------------------------------------------------------------------  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Gui\Tools\threadtools.py", line 81, in threaded
+    action(*args)             # assume raises exception if fails
+  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Internet\Email\mailtools\mailSender.py", line 148, in sendMessage
+    failed = server.sendmail(From, recip, fullText)  # except or dict
+  File "C:\Python31\lib\smtplib.py", line 717, in sendmail
+    raise SMTPRecipientsRefused(senderrs)
+--------------------------------------------------------------------------------  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Gui\Tools\threadtools.py", line 85, in threaded
+    action(progress=progress, *args)
+  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Internet\Email\PyMailGui\messagecache.py", line 81, in loadHeaders
+    reply = self.downloadAllHeaders(progress, loadfrom)
+  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Internet\Email\mailtools\mailFetcher.py", line 126, in downloadAllHeaders
+    server = self.connect()                # mbox now locked until quit
+  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Internet\Email\mailtools\mailFetcher.py", line 36, in connect
+    server.pass_(self.popPassword)              # pass is a reserved word
+  File "C:\Python31\lib\poplib.py", line 192, in pass_
+    return self._shortcmd('PASS %s' % pswd)
+  File "C:\Python31\lib\poplib.py", line 155, in _shortcmd
+    return self._getresp()
+  File "C:\Python31\lib\poplib.py", line 131, in _getresp
+    raise error_proto(resp)
+--------------------------------------------------------------------------------  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Gui\Tools\threadtools.py", line 85, in threaded
+    action(progress=progress, *args)
+  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Internet\Email\PyMailGui\messagecache.py", line 81, in loadHeaders
+    reply = self.downloadAllHeaders(progress, loadfrom)
+  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Internet\Email\mailtools\mailFetcher.py", line 126, in downloadAllHeaders
+    server = self.connect()                # mbox now locked until quit
+  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Internet\Email\mailtools\mailFetcher.py", line 36, in connect
+    server.pass_(self.popPassword)              # pass is a reserved word
+  File "C:\Python31\lib\poplib.py", line 192, in pass_
+    return self._shortcmd('PASS %s' % pswd)
+  File "C:\Python31\lib\poplib.py", line 155, in _shortcmd
+    return self._getresp()
+  File "C:\Python31\lib\poplib.py", line 131, in _getresp
+    raise error_proto(resp)
+--------------------------------------------------------------------------------  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Gui\Tools\threadtools.py", line 85, in threaded
+    action(progress=progress, *args)
+  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Internet\Email\PyMailGui\messagecache.py", line 81, in loadHeaders
+    reply = self.downloadAllHeaders(progress, loadfrom)
+  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Internet\Email\mailtools\mailFetcher.py", line 126, in downloadAllHeaders
+    server = self.connect()                # mbox now locked until quit
+  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Internet\Email\mailtools\mailFetcher.py", line 36, in connect
+    server.pass_(self.popPassword)              # pass is a reserved word
+  File "C:\Python31\lib\poplib.py", line 192, in pass_
+    return self._shortcmd('PASS %s' % pswd)
+  File "C:\Python31\lib\poplib.py", line 155, in _shortcmd
+    return self._getresp()
+  File "C:\Python31\lib\poplib.py", line 131, in _getresp
+    raise error_proto(resp)
+--------------------------------------------------------------------------------  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Gui\Tools\threadtools.py", line 85, in threaded
+    action(progress=progress, *args)
+  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Internet\Email\PyMailGui\messagecache.py", line 81, in loadHeaders
+    reply = self.downloadAllHeaders(progress, loadfrom)
+  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Internet\Email\mailtools\mailFetcher.py", line 126, in downloadAllHeaders
+    server = self.connect()                # mbox now locked until quit
+  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Internet\Email\mailtools\mailFetcher.py", line 36, in connect
+    server.pass_(self.popPassword)              # pass is a reserved word
+  File "C:\Python31\lib\poplib.py", line 192, in pass_
+    return self._shortcmd('PASS %s' % pswd)
+  File "C:\Python31\lib\poplib.py", line 155, in _shortcmd
+    return self._getresp()
+  File "C:\Python31\lib\poplib.py", line 131, in _getresp
+    raise error_proto(resp)
+--------------------------------------------------------------------------------  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Gui\Tools\threadtools.py", line 85, in threaded
+    action(progress=progress, *args)
+  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Internet\Email\PyMailGui\messagecache.py", line 81, in loadHeaders
+    reply = self.downloadAllHeaders(progress, loadfrom)
+  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Internet\Email\mailtools\mailFetcher.py", line 126, in downloadAllHeaders
+    server = self.connect()                # mbox now locked until quit
+  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Internet\Email\mailtools\mailFetcher.py", line 36, in connect
+    server.pass_(self.popPassword)              # pass is a reserved word
+  File "C:\Python31\lib\poplib.py", line 192, in pass_
+    return self._shortcmd('PASS %s' % pswd)
+  File "C:\Python31\lib\poplib.py", line 155, in _shortcmd
+    return self._getresp()
+  File "C:\Python31\lib\poplib.py", line 131, in _getresp
+    raise error_proto(resp)
+--------------------------------------------------------------------------------  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Gui\Tools\threadtools.py", line 85, in threaded
+    action(progress=progress, *args)
+  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Internet\Email\PyMailGui\messagecache.py", line 81, in loadHeaders
+    reply = self.downloadAllHeaders(progress, loadfrom)
+  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Internet\Email\mailtools\mailFetcher.py", line 126, in downloadAllHeaders
+    server = self.connect()                # mbox now locked until quit
+  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Internet\Email\mailtools\mailFetcher.py", line 36, in connect
+    server.pass_(self.popPassword)              # pass is a reserved word
+  File "C:\Python31\lib\poplib.py", line 192, in pass_
+    return self._shortcmd('PASS %s' % pswd)
+  File "C:\Python31\lib\poplib.py", line 155, in _shortcmd
+    return self._getresp()
+  File "C:\Python31\lib\poplib.py", line 131, in _getresp
+    raise error_proto(resp)
+--------------------------------------------------------------------------------  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Gui\Tools\threadtools.py", line 85, in threaded
+    action(progress=progress, *args)
+  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Internet\Email\PyMailGui\messagecache.py", line 81, in loadHeaders
+    reply = self.downloadAllHeaders(progress, loadfrom)
+  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Internet\Email\mailtools\mailFetcher.py", line 126, in downloadAllHeaders
+    server = self.connect()                # mbox now locked until quit
+  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Internet\Email\mailtools\mailFetcher.py", line 36, in connect
+    server.pass_(self.popPassword)              # pass is a reserved word
+  File "C:\Python31\lib\poplib.py", line 192, in pass_
+    return self._shortcmd('PASS %s' % pswd)
+  File "C:\Python31\lib\poplib.py", line 155, in _shortcmd
+    return self._getresp()
+  File "C:\Python31\lib\poplib.py", line 131, in _getresp
+    raise error_proto(resp)
+--------------------------------------------------------------------------------  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Gui\Tools\threadtools.py", line 85, in threaded
+    action(progress=progress, *args)
+  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Internet\Email\PyMailGui\messagecache.py", line 81, in loadHeaders
+    reply = self.downloadAllHeaders(progress, loadfrom)
+  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Internet\Email\mailtools\mailFetcher.py", line 126, in downloadAllHeaders
+    server = self.connect()                # mbox now locked until quit
+  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Internet\Email\mailtools\mailFetcher.py", line 36, in connect
+    server.pass_(self.popPassword)              # pass is a reserved word
+  File "C:\Python31\lib\poplib.py", line 192, in pass_
+    return self._shortcmd('PASS %s' % pswd)
+  File "C:\Python31\lib\poplib.py", line 155, in _shortcmd
+    return self._getresp()
+  File "C:\Python31\lib\poplib.py", line 131, in _getresp
+    raise error_proto(resp)
+--------------------------------------------------------------------------------  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Gui\Tools\threadtools.py", line 85, in threaded
+    action(progress=progress, *args)
+  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Internet\Email\PyMailGui\messagecache.py", line 81, in loadHeaders
+    reply = self.downloadAllHeaders(progress, loadfrom)
+  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Internet\Email\mailtools\mailFetcher.py", line 126, in downloadAllHeaders
+    server = self.connect()                # mbox now locked until quit
+  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Internet\Email\mailtools\mailFetcher.py", line 36, in connect
+    server.pass_(self.popPassword)              # pass is a reserved word
+  File "C:\Python31\lib\poplib.py", line 192, in pass_
+    return self._shortcmd('PASS %s' % pswd)
+  File "C:\Python31\lib\poplib.py", line 155, in _shortcmd
+    return self._getresp()
+  File "C:\Python31\lib\poplib.py", line 131, in _getresp
+    raise error_proto(resp)
+--------------------------------------------------------------------------------  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Gui\Tools\threadtools.py", line 81, in threaded
+    action(*args)             # assume raises exception if fails
+  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Internet\Email\mailtools\mailSender.py", line 149, in sendMessage
+    server = smtplib.SMTP(self.smtpServerName)           # this may fail too
+  File "C:\Python31\lib\smtplib.py", line 239, in __init__
+    (code, msg) = self.connect(host, port)
+  File "C:\Python31\lib\smtplib.py", line 295, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+  File "C:\Python31\lib\smtplib.py", line 273, in _get_socket
+    return socket.create_connection((host, port), timeout)
+  File "C:\Python31\lib\socket.py", line 292, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+--------------------------------------------------------------------------------  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Gui\Tools\threadtools.py", line 85, in threaded
+    action(progress=progress, *args)
+  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Internet\Email\PyMailGui\messagecache.py", line 81, in loadHeaders
+    reply = self.downloadAllHeaders(progress, loadfrom)
+  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Internet\Email\mailtools\mailFetcher.py", line 126, in downloadAllHeaders
+    server = self.connect()                # mbox now locked until quit
+  File "C:\Users\mark\Stuff\Books\4E\PP4E\dev\Examples\PP4E\Internet\Email\mailtools\mailFetcher.py", line 34, in connect
+    server = poplib.POP3(self.popServer)
+  File "C:\Python31\lib\poplib.py", line 84, in __init__
+    self.sock = self._create_socket(timeout)
+  File "C:\Python31\lib\poplib.py", line 90, in _create_socket
+    return socket.create_connection((self.host, self.port), timeout)
+  File "C:\Python31\lib\socket.py", line 307, in create_connection
+    raise error(msg)

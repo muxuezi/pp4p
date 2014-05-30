@@ -1,0 +1,13 @@
+#############################################################
+# Compile hello.c into a shareable object file on Cygwin,
+# to be loaded dynamically when first imported by Python.
+#############################################################
+
+PYLIB = /usr/local/bin
+PYINC = /usr/local/include/python3.1
+
+hello.dll: hello.c
+	gcc hello.c -g -I$(PYINC) -shared -L$(PYLIB) -lpython3.1 -o hello.dll
+
+clean:
+	rm -f hello.dll core

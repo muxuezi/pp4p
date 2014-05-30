@@ -1,0 +1,26 @@
+##########################################################################
+# Cygwin maefile to build higher-level Python embedding API 
+# library: "make -f makefile.api"; very little cygwin specific
+##########################################################################
+
+PYLIB = /usr/bin
+PYINC = /usr/include/python2.4
+
+APIMODS = ppembed-modules.o \
+          ppembed-globals.o \
+          ppembed-strings.o \
+          ppembed-callables.o \
+          ppembed-attributes.o \
+          ppembed-errors.o
+
+# link into a single lib
+libppembed.dll: $(APIMODS)
+	ar -crv libppembed.dll $(APIMODS)
+	rm -f $(APIMODS)
+
+# compile each extended api file
+ppembed%.o: ppembed%.c ppembed.h
+	gcc ppembed$*.c -c -g -I$(PYINC)
+
+clean: 
+	rm -f *.o *.a
