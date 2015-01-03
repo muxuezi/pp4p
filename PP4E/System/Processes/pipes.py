@@ -33,7 +33,7 @@ if __name__ == '__main__':
 
     print('Hello 1 from parent', mypid)               # to child's stdin
     sys.stdout.flush()                                # subvert stdio buffering
-    reply = input()                                   # from child's stdout
+    reply = raw_input()                                   # from child's stdout
     sys.stderr.write('Parent got: "%s"\n' % reply)    # stderr not tied to pipe!
 
     print('Hello 2 from parent', mypid)
